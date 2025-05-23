@@ -1,0 +1,7 @@
+<div class="grid-container flex gap-2 flex-wrap justify-between text-emerald-950 w-full pt-5">
+    <div class="content-grid border border-slate-500 shadow-xl rounded-lg text-yellow-50 p-2 mx-2 mt-3 w-3/16 {{dat.pingstatus=='Online'? 'bg-[#719461]':'bg-[#EF5D5E]'}}" *ngFor="let dat of data">
+       <div class="text-left font-bold " ><i class="fal fa-location"></i> {{dat.name}}</div>
+       <div class="text-left font-extrabold text-xs"><i class="fal fa-server"></i> {{dat.store}}</div>
+       <div class="text-left font-extrabold text-xs"><i class="fal fa-server"></i> {{dat.workstation}}</div>
+    </div>
+</div>

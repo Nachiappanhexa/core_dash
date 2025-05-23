@@ -1,0 +1,48 @@
+<div class="flex items-center justify-between p-2 ">
+    <section class="grid sm:grid-cols-2 lg:grid-cols-6 gap-4 w-full">
+      <div class="relative border border-red-600 shadow-2xl p-5 bg-gradient-to-r from-blue-300 to-blue-400 rounded-md overflow-hidden text-center">
+        <div class="relative z-10 mb-4 text-white text-4xl leading-none font-semibold">{{SummaryData.Total}}</div>
+        <div class="relative z-10 text-blue-200 leading-none font-extrabold uppercase">Total Servers</div>
+        <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="absolute right-0 bottom-0 h-32 w-32 -mr-8 -mb-8 text-blue-700 opacity-90">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+        </svg>
+      </div> 
+     
+      <div class="relative border border-slate-700 p-5 bg-gradient-to-r from-red-400 to-red-500 rounded-md overflow-hidden text-center">
+        <div class="relative z-10 mb-4 text-white text-4xl leading-none font-semibold">{{SummaryData.Offline}}</div>
+        <div class="relative z-10 text-red-200 leading-none  font-extrabold uppercase">Not Running<br/> or Failed</div>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"  stroke="currentColor" class="absolute right-0 bottom-0 h-24 w-24 text-blue-700 opacity-20">
+          <path  stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M151.6 469.6C145.5 476.2 137 480 128 480s-17.5-3.8-23.6-10.4l-88-96c-11.9-13-11.1-33.3 2-45.2s33.3-11.1 45.2 2L96 365.7V64c0-17.7 14.3-32 32-32s32 14.3 32 32V365.7l32.4-35.4c11.9-13 32.2-13.9 45.2-2s13.9 32.2 2 45.2l-88 96zM320 480c-17.7 0-32-14.3-32-32s14.3-32 32-32h32c17.7 0 32 14.3 32 32s-14.3 32-32 32H320zm0-128c-17.7 0-32-14.3-32-32s14.3-32 32-32h96c17.7 0 32 14.3 32 32s-14.3 32-32 32H320zm0-128c-17.7 0-32-14.3-32-32s14.3-32 32-32H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H320zm0-128c-17.7 0-32-14.3-32-32s14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H320z"/>
+        </svg>
+      </div>
+      <div class="relative border border-slate-700 p-5 bg-gradient-to-r from-amber-300 to-amber-600 rounded-md overflow-hidden text-center">
+        <div class="relative z-10 mb-4 text-white text-4xl leading-none font-semibold">{{SummaryData.running}}</div>
+        <div class="relative z-10 text-red-200 leading-none  font-extrabold uppercase">Running</div>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"  stroke="currentColor" class="absolute right-0 bottom-0 h-24 w-24 -mr-8 text-blue-700 opacity-20">
+          <path  stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M320 48a48 48 0 1 0 -96 0 48 48 0 1 0 96 0zM125.7 175.5c9.9-9.9 23.4-15.5 37.5-15.5c1.9 0 3.8 .1 5.6 .3L137.6 254c-9.3 28 1.7 58.8 26.8 74.5l86.2 53.9-25.4 88.8c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l28.7-100.4c5.9-20.6-2.6-42.6-20.7-53.9L238 299l30.9-82.4 5.1 12.3C289 264.7 323.9 288 362.7 288H384c17.7 0 32-14.3 32-32s-14.3-32-32-32H362.7c-12.9 0-24.6-7.8-29.5-19.7l-6.3-15c-14.6-35.1-44.1-61.9-80.5-73.1l-48.7-15c-11.1-3.4-22.7-5.2-34.4-5.2c-31 0-60.8 12.3-82.7 34.3L57.4 153.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l23.1-23.1zM91.2 352H32c-17.7 0-32 14.3-32 32s14.3 32 32 32h69.6c19 0 36.2-11.2 43.9-28.5L157 361.6l-9.5-6c-17.5-10.9-30.5-26.8-37.9-44.9L91.2 352z"/>
+        </svg>
+      </div>
+      <div class="relative border border-yellow-700 p-5 bg-gradient-to-r  from-gray-400 to-gray-300 rounded-md overflow-hidden text-center">
+        <div class=" mb-4 text-white text-4xl leading-none  font-extrabold uppercase">{{SummaryData.serverOffline}}</div>
+        <div class="text-slate-200 leading-none  font-extrabold uppercase">Server offline</div>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" stroke="currentColor" class="absolute right-0 bottom-0 h-24 w-24 -mr-2 text-blue-700 opacity-20">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M0 48C0 21.5 21.5 0 48 0L336 0c26.5 0 48 21.5 48 48l0 159-42.4 17L304 224l-32 0c-8.8 0-16 7.2-16 16l0 32 0 24.2 0 7.8c0 .9 .1 1.7 .2 2.6c2.3 58.1 24.1 144.8 98.7 201.5c-5.8 2.5-12.2 3.9-18.9 3.9l-96 0 0-80c0-26.5-21.5-48-48-48s-48 21.5-48 48l0 80-96 0c-26.5 0-48-21.5-48-48L0 48zM80 224c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zm80 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zM64 112l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16L80 96c-8.8 0-16 7.2-16 16zM176 96c-8.8 0-16 7.2-16 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0zm80 16l0 32c0 8.8 7.2 16 16 16l32 0c8.8 0 16-7.2 16-16l0-32c0-8.8-7.2-16-16-16l-32 0c-8.8 0-16 7.2-16 16zM423.1 225.7c5.7-2.3 12.1-2.3 17.8 0l120 48C570 277.4 576 286.2 576 296c0 63.3-25.9 168.8-134.8 214.2c-5.9 2.5-12.6 2.5-18.5 0C313.9 464.8 288 359.3 288 296c0-9.8 6-18.6 15.1-22.3l120-48zM527.4 312L432 273.8l0 187.8c68.2-33 91.5-99 95.4-149.7z"/>
+      </svg>
+      </div>
+      <div class="relative border border-red-600 p-5 bg-gradient-to-r from-teal-400 to-green-500 rounded-md overflow-hidden text-center">
+        <div class="relative z-10 mb-4 text-white text-4xl leading-none font-semibold">{{SummaryData.Online}}</div>
+        <div class="relative z-10 text-green-200 leading-none  font-extrabold uppercase">Completed</div>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"  stroke="currentColor" class="absolute right-0 bottom-0 h-24 w-24 text-blue-700 opacity-20">
+          <path  stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M151.6 42.4C145.5 35.8 137 32 128 32s-17.5 3.8-23.6 10.4l-88 96c-11.9 13-11.1 33.3 2 45.2s33.3 11.1 45.2-2L96 146.3V448c0 17.7 14.3 32 32 32s32-14.3 32-32V146.3l32.4 35.4c11.9 13 32.2 13.9 45.2 2s13.9-32.2 2-45.2l-88-96zM320 480h32c17.7 0 32-14.3 32-32s-14.3-32-32-32H320c-17.7 0-32 14.3-32 32s14.3 32 32 32zm0-128h96c17.7 0 32-14.3 32-32s-14.3-32-32-32H320c-17.7 0-32 14.3-32 32s14.3 32 32 32zm0-128H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H320c-17.7 0-32 14.3-32 32s14.3 32 32 32zm0-128H544c17.7 0 32-14.3 32-32s-14.3-32-32-32H320c-17.7 0-32 14.3-32 32s14.3 32 32 32z"/>
+        </svg>
+      </div>
+      <div class="relative border border-red-600 p-5 bg-gradient-to-r  from-teal-400 to-green-500 rounded-md overflow-hidden text-center">
+        <div class=" mb-4 text-white text-4xl leading-none  font-extrabold uppercase">{{SummaryData.Percentage}} %</div>
+        <div class="text-slate-200 leading-none  font-extrabold uppercase">Percentage</div>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"  stroke="currentColor" class="absolute right-0 bottom-0 h-24 w-24 -mr-2 text-blue-700 opacity-20">
+          <path  stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M304 240V16.6c0-9 7-16.6 16-16.6C443.7 0 544 100.3 544 224c0 9-7.6 16-16.6 16H304zM32 272C32 150.7 122.1 50.3 239 34.3c9.2-1.3 17 6.1 17 15.4V288L412.5 444.5c6.7 6.7 6.2 17.7-1.5 23.1C371.8 495.6 323.8 512 272 512C139.5 512 32 404.6 32 272zm526.4 16c9.3 0 16.6 7.8 15.4 17c-7.7 55.9-34.6 105.6-73.9 142.3c-6 5.6-15.4 5.2-21.2-.7L320 288H558.4z"/>
+        </svg>
+      </div>
+
+    </section>
+</div>

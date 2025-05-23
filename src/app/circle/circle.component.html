@@ -1,0 +1,9 @@
+<circle-progress
+    [percent]="data.overallpercentage"
+    [radius]="100"
+    title="{{data.overallpercentage}}"
+    [outerStrokeWidth]="25"
+    [outerStrokeColor]="data.overallpercentage>0 && data.overallpercentage<81?'#EF5D5E':data.overallpercentage>80 && data.overallpercentage<100?'#eca127':'#719461'"
+    [animation]="true"
+    [animationDuration]="300"
+  ></circle-progress>

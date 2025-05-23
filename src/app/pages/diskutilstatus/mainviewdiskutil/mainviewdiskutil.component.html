@@ -1,0 +1,19 @@
+<div class="marquee1">
+    <p class="text-4xl font-extrabold uppercase inline-block px-4 py-2 text-[#0a3055]">Store servers Disk utilization Status</p>
+</div>
+
+<div>
+    <app-summaryviewdiskutil [data]="diskutilData"></app-summaryviewdiskutil>
+</div>
+
+<div>
+    <app-toggle-button (viewChange)="onViewChange($event)"></app-toggle-button>
+</div>
+
+<div *ngIf="isGrid">
+    <app-gridviewdiskutil [data]="diskutilData"></app-gridviewdiskutil>
+</div>
+
+<div *ngIf="!isGrid">
+    <app-tableviewdiskutil [data]="diskutilData"></app-tableviewdiskutil>
+</div>

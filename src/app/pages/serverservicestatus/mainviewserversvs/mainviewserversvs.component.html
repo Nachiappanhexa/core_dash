@@ -1,0 +1,19 @@
+<div class="marquee1">
+    <p class="text-4xl font-extrabold uppercase inline-block px-4 py-2 text-[#0a3055]">Serverservice Status</p>
+</div>
+
+<div>
+    <app-summaryviewserversvs [data]="serviceData"></app-summaryviewserversvs>
+</div>
+
+<div>
+    <app-toggle-button (viewChange)="onViewChange($event)"></app-toggle-button>
+</div>
+
+<div *ngIf="isGrid">
+    <app-gridviewserversvs [data]="serviceData"></app-gridviewserversvs>
+</div>
+
+<div *ngIf="!isGrid">
+    <app-tableviewserversvs [data]="serviceData"></app-tableviewserversvs>
+</div>

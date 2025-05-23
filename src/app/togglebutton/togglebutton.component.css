@@ -1,0 +1,16 @@
+.mat-button-toggle-appearance-standard{
+    background-color: lightblue !important;
+    color: #ffffff;
+}
+
+.mat-button-toggle:hover,.mat-button-toggle-label-content:hover,.mat-button-toggle-appearance-standard:hover {
+    background-color: red!important;
+    color: green !important;    
+}
+
+
+    
+.mat-button-toggle-focus-overlay,.mat-button-toggle-checked {
+    background-color: #ec2c4c;
+    color: blue !important;
+}

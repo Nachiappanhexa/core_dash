@@ -1,0 +1,8 @@
+{
+    "title":  "CPU Monitor Status",
+    "overallpercentage":  99,
+    "totalcount":  228,
+    "online":  227,
+    "offine":  0,
+    "page":  "cpu"
+}

@@ -1,0 +1,1826 @@
+[
+    {
+        "Status":  "1",
+        "Location":  "BRIDGWATER",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "88",
+        "ServerName":  "SRV8037",
+        "SID":  "1"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WISBECH",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8041",
+        "SID":  "2"
+    },
+    {
+        "Status":  "1",
+        "Location":  "Martlesham Heath",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8044",
+        "SID":  "3"
+    },
+    {
+        "Status":  "1",
+        "Location":  "TAUNTON",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8048",
+        "SID":  "4"
+    },
+    {
+        "Status":  "1",
+        "Location":  "FARNBOROUGH",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8049",
+        "SID":  "5"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HULL",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "88",
+        "ServerName":  "SRV8053",
+        "SID":  "6"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BRADFORD",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8055",
+        "SID":  "7"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WIMBLEDON",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "66",
+        "ServerName":  "SRV8059",
+        "SID":  "8"
+    },
+    {
+        "Status":  "1",
+        "Location":  "LINCOLN",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8061",
+        "SID":  "9"
+    },
+    {
+        "Status":  "1",
+        "Location":  "DUNSTABLE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8062",
+        "SID":  "10"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SCUNTHORPE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8064",
+        "SID":  "11"
+    },
+    {
+        "Status":  "1",
+        "Location":  "ROTHERHAM",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8065",
+        "SID":  "12"
+    },
+    {
+        "Status":  "1",
+        "Location":  "DEWSBURY",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8066",
+        "SID":  "13"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SUTTON IN ASHFIELD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "78",
+        "ServerName":  "SRV8067",
+        "SID":  "14"
+    },
+    {
+        "Status":  "1",
+        "Location":  "NOTTINGHAM CENTRAL",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8071",
+        "SID":  "15"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CRICKLEWOOD",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8072",
+        "SID":  "16"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CHELTENHAM",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8074",
+        "SID":  "17"
+    },
+    {
+        "Status":  "1",
+        "Location":  "COVENTRY",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "87",
+        "ServerName":  "SRV8075",
+        "SID":  "18"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BRISTOL",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8077",
+        "SID":  "19"
+    },
+    {
+        "Status":  "1",
+        "Location":  "RUISLIP",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8078",
+        "SID":  "20"
+    },
+    {
+        "Status":  "1",
+        "Location":  "DERBY",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "94",
+        "ServerName":  "SRV8079",
+        "SID":  "21"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WOKING",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "94",
+        "ServerName":  "SRV8080",
+        "SID":  "22"
+    },
+    {
+        "Status":  "1",
+        "Location":  "STOCKPORT",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8081",
+        "SID":  "23"
+    },
+    {
+        "Status":  "1",
+        "Location":  "RAYLEIGH",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "94",
+        "ServerName":  "SRV8082",
+        "SID":  "24"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CATFORD",
+        "TotalRAM":  "6 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8083",
+        "SID":  "25"
+    },
+    {
+        "Status":  "1",
+        "Location":  "PUDSEY",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8088",
+        "SID":  "26"
+    },
+    {
+        "Status":  "1",
+        "Location":  "ASHFORD",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "77",
+        "ServerName":  "SRV8090",
+        "SID":  "27"
+    },
+    {
+        "Status":  "1",
+        "Location":  "TOTTENHAM",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8091",
+        "SID":  "28"
+    },
+    {
+        "Status":  "1",
+        "Location":  "DARTFORD",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "90",
+        "ServerName":  "SRV8093",
+        "SID":  "29"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HEMEL HEMPSTEAD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8096",
+        "SID":  "30"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CANNING TOWN",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "90",
+        "ServerName":  "SRV8208",
+        "SID":  "31"
+    },
+    {
+        "Status":  "1",
+        "Location":  "PETERBOROUGH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8209",
+        "SID":  "32"
+    },
+    {
+        "Status":  "1",
+        "Location":  "MERTON",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8214",
+        "SID":  "33"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CROYDON",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8215",
+        "SID":  "34"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HANDSWORTH",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "91",
+        "ServerName":  "SRV8216",
+        "SID":  "35"
+    },
+    {
+        "Status":  "1",
+        "Location":  "REDDITCH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8220",
+        "SID":  "36"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WORTHING",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8221",
+        "SID":  "37"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HAYES",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "77",
+        "ServerName":  "SRV8222",
+        "SID":  "38"
+    },
+    {
+        "Status":  "1",
+        "Location":  "MINWORTH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8225",
+        "SID":  "39"
+    },
+    {
+        "Status":  "1",
+        "Location":  "STOCKTON",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "72",
+        "ServerName":  "SRV8226",
+        "SID":  "40"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WATERLOOVILLE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "78",
+        "ServerName":  "SRV8227",
+        "SID":  "41"
+    },
+    {
+        "Status":  "1",
+        "Location":  "FAREHAM",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "90",
+        "ServerName":  "SRV8228",
+        "SID":  "42"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WALLSEND",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8229",
+        "SID":  "43"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BRIGHTON",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8230",
+        "SID":  "44"
+    },
+    {
+        "Status":  "1",
+        "Location":  "STOKE",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "91",
+        "ServerName":  "SRV8231",
+        "SID":  "45"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CHATHAM",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "88",
+        "ServerName":  "SRV8233",
+        "SID":  "46"
+    },
+    {
+        "Status":  "1",
+        "Location":  "OXFORD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8234",
+        "SID":  "47"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HALL GREEN",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8235",
+        "SID":  "48"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CLIFTON",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8236",
+        "SID":  "49"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HANGER LANE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8237",
+        "SID":  "50"
+    },
+    {
+        "Status":  "1",
+        "Location":  "ST. ALBANS",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "87",
+        "ServerName":  "SRV8238",
+        "SID":  "51"
+    },
+    {
+        "Status":  "1",
+        "Location":  "DONCASTER",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8239",
+        "SID":  "52"
+    },
+    {
+        "Status":  "1",
+        "Location":  "DORKING",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "93",
+        "ServerName":  "SRV8240",
+        "SID":  "53"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WALTHAM CROSS",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8243",
+        "SID":  "54"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BOURNEMOUTH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8246",
+        "SID":  "55"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BARNSLEY",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8247",
+        "SID":  "56"
+    },
+    {
+        "Status":  "1",
+        "Location":  "PERTH",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "92",
+        "ServerName":  "SRV8248",
+        "SID":  "57"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CREWE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8250",
+        "SID":  "58"
+    },
+    {
+        "Status":  "1",
+        "Location":  "LANCASTER",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8251",
+        "SID":  "59"
+    },
+    {
+        "Status":  "1",
+        "Location":  "DUDLEY",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "92",
+        "ServerName":  "SRV8252",
+        "SID":  "60"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CARLISLE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8253",
+        "SID":  "61"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BARNSTAPLE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8256",
+        "SID":  "62"
+    },
+    {
+        "Status":  "1",
+        "Location":  "NOTTINGHAM NORTH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8257",
+        "SID":  "63"
+    },
+    {
+        "Status":  "1",
+        "Location":  "DUNDEE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8258",
+        "SID":  "64"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HANWORTH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8260",
+        "SID":  "65"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CANNOCK",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "93",
+        "ServerName":  "SRV8261",
+        "SID":  "66"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CHESTER",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8262",
+        "SID":  "67"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HUDDERSFIELD",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "91",
+        "ServerName":  "SRV8263",
+        "SID":  "68"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BEDFORD",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "93",
+        "ServerName":  "SRV8264",
+        "SID":  "69"
+    },
+    {
+        "Status":  "1",
+        "Location":  "EASTBOURNE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8265",
+        "SID":  "70"
+    },
+    {
+        "Status":  "1",
+        "Location":  "PONTEFRACT",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8267",
+        "SID":  "71"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SHREWSBURY",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "90",
+        "ServerName":  "SRV8268",
+        "SID":  "72"
+    },
+    {
+        "Status":  "1",
+        "Location":  "LETCHWORTH",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "92",
+        "ServerName":  "SRV8270",
+        "SID":  "73"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BRIDGEND",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8271",
+        "SID":  "74"
+    },
+    {
+        "Status":  "1",
+        "Location":  "PRESTON",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "78",
+        "ServerName":  "SRV8273",
+        "SID":  "75"
+    },
+    {
+        "Status":  "1",
+        "Location":  "YEOVIL",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8274",
+        "SID":  "76"
+    },
+    {
+        "Status":  "1",
+        "Location":  "AINTREE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "78",
+        "ServerName":  "SRV8276",
+        "SID":  "77"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BANBURY",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "78",
+        "ServerName":  "SRV8277",
+        "SID":  "78"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BLETCHLEY",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "76",
+        "ServerName":  "SRV8279",
+        "SID":  "79"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BLACKHEATH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8281",
+        "SID":  "80"
+    },
+    {
+        "Status":  "1",
+        "Location":  "STIRLING",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8282",
+        "SID":  "81"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CHESTERFIELD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8283",
+        "SID":  "82"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BURY",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8284",
+        "SID":  "83"
+    },
+    {
+        "Status":  "1",
+        "Location":  "COLCHESTER",
+        "TotalRAM":  "6 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8287",
+        "SID":  "84"
+    },
+    {
+        "Status":  "1",
+        "Location":  "NEWPORT",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "87",
+        "ServerName":  "SRV8290",
+        "SID":  "85"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BAGULEY",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8291",
+        "SID":  "86"
+    },
+    {
+        "Status":  "1",
+        "Location":  "PLYMOUTH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8292",
+        "SID":  "87"
+    },
+    {
+        "Status":  "1",
+        "Location":  "NORTHAMPTON",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8293",
+        "SID":  "88"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BLACKPOOL",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8296",
+        "SID":  "89"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BARKING EXTRA",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8297",
+        "SID":  "90"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BIRKENHEAD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8298",
+        "SID":  "91"
+    },
+    {
+        "Status":  "1",
+        "Location":  "STAFFORD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8299",
+        "SID":  "92"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WARRINGTON",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8301",
+        "SID":  "93"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HALIFAX",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8303",
+        "SID":  "94"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WREXHAM",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8308",
+        "SID":  "95"
+    },
+    {
+        "Status":  "1",
+        "Location":  "EPSOM",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "87",
+        "ServerName":  "SRV8309",
+        "SID":  "96"
+    },
+    {
+        "Status":  "1",
+        "Location":  "ERITH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8310",
+        "SID":  "97"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BRACKNELL",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8312",
+        "SID":  "98"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HIGH WYCOMBE",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8313",
+        "SID":  "99"
+    },
+    {
+        "Status":  "1",
+        "Location":  "MAIDSTONE EXTRA",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8314",
+        "SID":  "100"
+    },
+    {
+        "Status":  "1",
+        "Location":  "AYLESBURY EXTRA",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8316",
+        "SID":  "101"
+    },
+    {
+        "Status":  "1",
+        "Location":  "LOWESTOFT",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8317",
+        "SID":  "102"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BICESTER",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "87",
+        "ServerName":  "SRV8318",
+        "SID":  "103"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BEXHILL",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "92",
+        "ServerName":  "SRV8319",
+        "SID":  "104"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SITTINGBOURNE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8320",
+        "SID":  "105"
+    },
+    {
+        "Status":  "1",
+        "Location":  "ANDOVER",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "88",
+        "ServerName":  "SRV8321",
+        "SID":  "106"
+    },
+    {
+        "Status":  "1",
+        "Location":  "EDMONTON EXTRA",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8322",
+        "SID":  "107"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SWANSEA EXTRA",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8323",
+        "SID":  "108"
+    },
+    {
+        "Status":  "1",
+        "Location":  "KETTERING EXTRA",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8326",
+        "SID":  "109"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WAKEFIELD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8327",
+        "SID":  "110"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SOUTHAMPTON EXTRA",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8328",
+        "SID":  "111"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WESTON SUPER MARE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8329",
+        "SID":  "112"
+    },
+    {
+        "Status":  "1",
+        "Location":  "TAMWORTH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8331",
+        "SID":  "113"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BASINGSTOKE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8332",
+        "SID":  "114"
+    },
+    {
+        "Status":  "1",
+        "Location":  "PERRY BAR EXTRA",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "91",
+        "ServerName":  "SRV8334",
+        "SID":  "115"
+    },
+    {
+        "Status":  "1",
+        "Location":  "EXETER",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8336",
+        "SID":  "116"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HARLOW EXTRA",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8337",
+        "SID":  "117"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HAVANT EXTRA",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8338",
+        "SID":  "118"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SLOUGH",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "94",
+        "ServerName":  "SRV8340",
+        "SID":  "119"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SWINDON EXTRA",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "77",
+        "ServerName":  "SRV8342",
+        "SID":  "120"
+    },
+    {
+        "Status":  "1",
+        "Location":  "TELFORD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8343",
+        "SID":  "121"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BROADSTAIRS EXTRA",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8344",
+        "SID":  "122"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CAERPHILLY",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8347",
+        "SID":  "123"
+    },
+    {
+        "Status":  "1",
+        "Location":  "NEWCASTLE EXTRA",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8348",
+        "SID":  "124"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CHIPPENHAM",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8349",
+        "SID":  "125"
+    },
+    {
+        "Status":  "1",
+        "Location":  "IPSWICH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8350",
+        "SID":  "126"
+    },
+    {
+        "Status":  "1",
+        "Location":  "Cirencester",
+        "TotalRAM":  "6 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8351",
+        "SID":  "127"
+    },
+    {
+        "Status":  "1",
+        "Location":  "GLASGOW",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8352",
+        "SID":  "128"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HAVERFORDWEST",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8353",
+        "SID":  "129"
+    },
+    {
+        "Status":  "1",
+        "Location":  "EDINBURGH EXTRA",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8354",
+        "SID":  "130"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BOSTON",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8355",
+        "SID":  "131"
+    },
+    {
+        "Status":  "1",
+        "Location":  "THETFORD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "89",
+        "ServerName":  "SRV8357",
+        "SID":  "132"
+    },
+    {
+        "Status":  "1",
+        "Location":  "LICHFIELD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "77",
+        "ServerName":  "SRV8359",
+        "SID":  "133"
+    },
+    {
+        "Status":  "1",
+        "Location":  "ASHBY DE LA ZOUCH",
+        "TotalRAM":  "0 GB",
+        "RAMUtil":  "77",
+        "ServerName":  "SRV8360",
+        "SID":  "134"
+    },
+    {
+        "Status":  "1",
+        "Location":  "NEW MARKET",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8361",
+        "SID":  "135"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BULWELL",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8364",
+        "SID":  "136"
+    },
+    {
+        "Status":  "1",
+        "Location":  "DUMFRIES",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8365",
+        "SID":  "137"
+    },
+    {
+        "Status":  "1",
+        "Location":  "GLOSSOP",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8366",
+        "SID":  "138"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HEREFORD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8367",
+        "SID":  "139"
+    },
+    {
+        "Status":  "1",
+        "Location":  "PLUMSTEAD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8370",
+        "SID":  "140"
+    },
+    {
+        "Status":  "1",
+        "Location":  "READING",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8371",
+        "SID":  "141"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CHADWELL HEATH",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "93",
+        "ServerName":  "SRV8372",
+        "SID":  "142"
+    },
+    {
+        "Status":  "1",
+        "Location":  "OLDHAM",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8374",
+        "SID":  "143"
+    },
+    {
+        "Status":  "1",
+        "Location":  "GLOUCESTER",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "93",
+        "ServerName":  "SRV8377",
+        "SID":  "144"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CORBY",
+        "TotalRAM":  "10 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8378",
+        "SID":  "145"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BRAINTREE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8381",
+        "SID":  "146"
+    },
+    {
+        "Status":  "1",
+        "Location":  "EAST GRINSTEAD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8382",
+        "SID":  "147"
+    },
+    {
+        "Status":  "1",
+        "Location":  "GUILDFORD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8385",
+        "SID":  "148"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CROYDON COLO",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "74",
+        "ServerName":  "SRV8388",
+        "SID":  "149"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CRAWLEY",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8390",
+        "SID":  "150"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WIGSTON",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8393",
+        "SID":  "151"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WATFORD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8397",
+        "SID":  "152"
+    },
+    {
+        "Status":  "1",
+        "Location":  "LUTON",
+        "TotalRAM":  "10 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8398",
+        "SID":  "153"
+    },
+    {
+        "Status":  "1",
+        "Location":  "NORTHALLERTON",
+        "TotalRAM":  "10 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8399",
+        "SID":  "154"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BURTON SOUTH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8404",
+        "SID":  "155"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WORCESTER",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8406",
+        "SID":  "156"
+    },
+    {
+        "Status":  "1",
+        "Location":  "TRURO",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8407",
+        "SID":  "157"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BRENTWOOD",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8409",
+        "SID":  "158"
+    },
+    {
+        "Status":  "1",
+        "Location":  "GRAVESEND",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "78",
+        "ServerName":  "SRV8410",
+        "SID":  "159"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SEVENOAKS",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8411",
+        "SID":  "160"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SHEFFIELD NORTH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8412",
+        "SID":  "161"
+    },
+    {
+        "Status":  "1",
+        "Location":  "EALING",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "77",
+        "ServerName":  "SRV8414",
+        "SID":  "162"
+    },
+    {
+        "Status":  "1",
+        "Location":  "MACCLESFIELD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "76",
+        "ServerName":  "SRV8415",
+        "SID":  "163"
+    },
+    {
+        "Status":  "1",
+        "Location":  "STEVENAGE",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8416",
+        "SID":  "164"
+    },
+    {
+        "Status":  "1",
+        "Location":  "STIRCHLEY",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8417",
+        "SID":  "165"
+    },
+    {
+        "Status":  "1",
+        "Location":  "KINGS LYNN",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8428",
+        "SID":  "166"
+    },
+    {
+        "Status":  "1",
+        "Location":  "MILTON KEYNES",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8429",
+        "SID":  "167"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SALISBURY",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8430",
+        "SID":  "168"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CHORLEY",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8431",
+        "SID":  "169"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WORKSOP",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8434",
+        "SID":  "170"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HALESOWEN",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "95",
+        "ServerName":  "SRV8436",
+        "SID":  "171"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WOLVERHAMPTON",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "89",
+        "ServerName":  "SRV8437",
+        "SID":  "172"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SOUTH SHIELDS",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8441",
+        "SID":  "173"
+    },
+    {
+        "Status":  "1",
+        "Location":  "GRANTHAM",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8443",
+        "SID":  "174"
+    },
+    {
+        "Status":  "1",
+        "Location":  "LITTLEHAMPTON",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8444",
+        "SID":  "175"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BURGESS HILL",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8448",
+        "SID":  "176"
+    },
+    {
+        "Status":  "1",
+        "Location":  "MALDON",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8449",
+        "SID":  "177"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HAILSHAM",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "88",
+        "ServerName":  "SRV8451",
+        "SID":  "178"
+    },
+    {
+        "Status":  "1",
+        "Location":  "NUNEATON",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8452",
+        "SID":  "179"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HERTFORD",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8453",
+        "SID":  "180"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BEVERLEY",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8454",
+        "SID":  "181"
+    },
+    {
+        "Status":  "1",
+        "Location":  "TUNSTALL",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8455",
+        "SID":  "182"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CHESHAM",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "88",
+        "ServerName":  "SRV8456",
+        "SID":  "183"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BISHOPS STORTFORD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8457",
+        "SID":  "184"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HINCKLEY",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8458",
+        "SID":  "185"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WINSFORD",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "89",
+        "ServerName":  "SRV8459",
+        "SID":  "186"
+    },
+    {
+        "Status":  "1",
+        "Location":  "RUSHDEN",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8460",
+        "SID":  "187"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WEST WICKHAM",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8461",
+        "SID":  "188"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HUNTINGDON",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "92",
+        "ServerName":  "SRV8464",
+        "SID":  "189"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WINNERSH",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8465",
+        "SID":  "190"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BOREHAMWOOD",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8467",
+        "SID":  "191"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SHEFFIELD CRYSTAL PEAKS",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "77",
+        "ServerName":  "SRV8468",
+        "SID":  "192"
+    },
+    {
+        "Status":  "1",
+        "Location":  "GRIMSBY",
+        "TotalRAM":  "10 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8469",
+        "SID":  "193"
+    },
+    {
+        "Status":  "1",
+        "Location":  "YORK",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "89",
+        "ServerName":  "SRV8471",
+        "SID":  "194"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HENDON",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "90",
+        "ServerName":  "SRV8473",
+        "SID":  "195"
+    },
+    {
+        "Status":  "1",
+        "Location":  "HEDGE END",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "78",
+        "ServerName":  "SRV8474",
+        "SID":  "196"
+    },
+    {
+        "Status":  "1",
+        "Location":  "ALTON",
+        "TotalRAM":  "6 GB",
+        "RAMUtil":  "79",
+        "ServerName":  "SRV8475",
+        "SID":  "197"
+    },
+    {
+        "Status":  "1",
+        "Location":  "FOLKESTONE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8479",
+        "SID":  "198"
+    },
+    {
+        "Status":  "1",
+        "Location":  "ANERLEY",
+        "TotalRAM":  "6 GB",
+        "RAMUtil":  "78",
+        "ServerName":  "SRV8480",
+        "SID":  "199"
+    },
+    {
+        "Status":  "1",
+        "Location":  "Christchurch",
+        "TotalRAM":  "6 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8481",
+        "SID":  "200"
+    },
+    {
+        "Status":  "1",
+        "Location":  "Sutton",
+        "TotalRAM":  "6 GB",
+        "RAMUtil":  "78",
+        "ServerName":  "SRV8482",
+        "SID":  "201"
+    },
+    {
+        "Status":  "1",
+        "Location":  "Shipley",
+        "TotalRAM":  "6 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8483",
+        "SID":  "202"
+    },
+    {
+        "Status":  "1",
+        "Location":  "TUNBRIDGE WELLS",
+        "TotalRAM":  "10 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8484",
+        "SID":  "203"
+    },
+    {
+        "Status":  "1",
+        "Location":  "Winchester",
+        "TotalRAM":  "10 GB",
+        "RAMUtil":  "80",
+        "ServerName":  "SRV8485",
+        "SID":  "204"
+    },
+    {
+        "Status":  "1",
+        "Location":  "MIDSOMER NORTON",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8486",
+        "SID":  "205"
+    },
+    {
+        "Status":  "1",
+        "Location":  "RUGBY",
+        "TotalRAM":  "6 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8488",
+        "SID":  "206"
+    },
+    {
+        "Status":  "1",
+        "Location":  "BOGNOR REGIS",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8492",
+        "SID":  "207"
+    },
+    {
+        "Status":  "1",
+        "Location":  "STOWMARKET",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8493",
+        "SID":  "208"
+    },
+    {
+        "Status":  "1",
+        "Location":  "LOUGHTON",
+        "TotalRAM":  "6 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8494",
+        "SID":  "209"
+    },
+    {
+        "Status":  "1",
+        "Location":  "NEWBURY",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8495",
+        "SID":  "210"
+    },
+    {
+        "Status":  "1",
+        "Location":  "LEEDS ROUNDHAY",
+        "TotalRAM":  "10 GB",
+        "RAMUtil":  "84",
+        "ServerName":  "SRV8497",
+        "SID":  "211"
+    },
+    {
+        "Status":  "1",
+        "Location":  "NORWICH",
+        "TotalRAM":  "6 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8498",
+        "SID":  "212"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WELWYN GC",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "74",
+        "ServerName":  "SRV8500",
+        "SID":  "213"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CARDIFF NEWPORT",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "81",
+        "ServerName":  "SRV8501",
+        "SID":  "214"
+    },
+    {
+        "Status":  "1",
+        "Location":  "STAINES",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8510",
+        "SID":  "215"
+    },
+    {
+        "Status":  "1",
+        "Location":  "THURMASTON",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8520",
+        "SID":  "216"
+    },
+    {
+        "Status":  "1",
+        "Location":  "Bolton",
+        "TotalRAM":  "12 GB",
+        "RAMUtil":  "89",
+        "ServerName":  "SRV8565",
+        "SID":  "217"
+    },
+    {
+        "Status":  "1",
+        "Location":  "CHELMSLFORD",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8566",
+        "SID":  "218"
+    },
+    {
+        "Status":  "1",
+        "Location":  "Sunderland",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "86",
+        "ServerName":  "SRV8714",
+        "SID":  "219"
+    },
+    {
+        "Status":  "1",
+        "Location":  "SOUTHPORT K\u0026B",
+        "TotalRAM":  "2 GB",
+        "RAMUtil":  "87",
+        "ServerName":  "SRV8719",
+        "SID":  "220"
+    },
+    {
+        "Status":  "1",
+        "Location":  "MUSWELL HILL K\u0026B",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "82",
+        "ServerName":  "SRV8728",
+        "SID":  "221"
+    },
+    {
+        "Status":  "1",
+        "Location":  "TORQUAY",
+        "TotalRAM":  "20 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8549",
+        "SID":  "222"
+    },
+    {
+        "Status":  "1",
+        "Location":  "WIDNES",
+        "TotalRAM":  "20 GB",
+        "RAMUtil":  "85",
+        "ServerName":  "SRV8571",
+        "SID":  "223"
+    },
+    {
+        "Status":  "1",
+        "Location":  "LONG EATON",
+        "TotalRAM":  "8 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8585",
+        "SID":  "224"
+    },
+    {
+        "Status":  "1",
+        "Location":  "DURHAM",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "88",
+        "ServerName":  "SRV8573",
+        "SID":  "225"
+    },
+    {
+        "Status":  "1",
+        "Location":  "ABERDEEN",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8587",
+        "SID":  "226"
+    },
+    {
+        "Status":  "1",
+        "Location":  "TROWBRIDGE",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "83",
+        "ServerName":  "SRV8275",
+        "SID":  "227"
+    },
+    {
+        "Status":  "1",
+        "Location":  "LEAMINGTON SPA",
+        "TotalRAM":  "4 GB",
+        "RAMUtil":  "87",
+        "ServerName":  "SRV8586",
+        "SID":  "228"
+    }
+]

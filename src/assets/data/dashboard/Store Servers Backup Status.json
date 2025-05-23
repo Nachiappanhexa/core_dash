@@ -1,0 +1,8 @@
+{
+    "title":  "Store Servers Backup Status",
+    "overallpercentage":  0,
+    "totalcount":  149,
+    "online":  0,
+    "offine":  149,
+    "page":  "serverbackup"
+}

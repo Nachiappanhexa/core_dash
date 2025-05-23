@@ -1,0 +1,50 @@
+<div class="container">
+    <mat-form-field _appearance="standard">
+        <mat-label>Filter Table</mat-label>
+        <input matInput (keyup)="applyFilter($event)" placeholder="Search" #input>
+      </mat-form-field>
+      <span class="downloader">
+        <button (click)="exportXLS()" mat-fab color="primary" class="ml-14" data-toggle='tooltip' title="Download Excel">
+          <mat-icon>file_copy</mat-icon>
+          </button>
+      </span>
+      <span class="downloader">
+        <button (click)="exportPDF()" mat-fab color="warn" class="ml-4" data-toggle='tooltip' title="Download PDF">
+          <mat-icon>picture_as_pdf</mat-icon>
+          </button>
+      </span>
+     
+      <div class="mat-elevation-z8">
+      
+        <table mat-table [dataSource]="dataSource" matSort #Mytable>
+      
+            
+          <ng-container *ngFor="let column of displayedColumns; let i = index" [matColumnDef]="column">
+            <th mat-header-cell *matHeaderCellDef mat-sort-header class="uppercase"> {{ column }} </th>
+            <td mat-cell *matCellDef="let row">
+              <!-- If it's the third column (index 2), customize it -->
+              <ng-container *ngIf="i !== 3; else customCell">
+                {{ row[column] }}
+              </ng-container>
+              <!-- Custom content for the third column -->
+              <ng-template #customCell>
+                <!-- Your custom content goes here -->
+                <button mat-raised-button color="{{(row.currentCPUUsage > 95 || row.serverstatus ==='0') ? 'warn' : 'success'}}">
+                  {{(row.currentCPUUsage>95 || row.serverstatus ==='0') ?'High':'Low'}}
+              </button>
+              </ng-template>
+            </td>
+          </ng-container>
+          
+          <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+          <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+      
+          <!-- Row shown when there is no matching data. -->
+          <tr class="mat-row" *matNoDataRow>
+            <td class="mat-cell" colspan="4">No data matching the filter "{{input.value}}"</td>
+          </tr>
+        </table>
+      
+        <mat-paginator [pageSize]="10" [pageSizeOptions]="getPageSizes()" aria-label="Select page of users"></mat-paginator>
+      </div>
+    </div>

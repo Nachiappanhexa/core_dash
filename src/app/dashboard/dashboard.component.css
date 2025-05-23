@@ -1,0 +1,47 @@
+/* Base gap for large screens */
+.grid-container {
+    gap: 2rem; /* Default gap */
+}
+
+@media (min-width: 2100px) {
+    .grid-container {
+        gap: 1.2rem; /* Adjust this value as needed */
+    }
+}
+
+/* Adjust gap for medium screens */
+@media (max-width: 1024px) {
+    .grid-container {
+        gap: 1.5rem;
+    }
+}
+
+/* Adjust gap for small screens */
+@media (max-width: 768px) {
+    .grid-container {
+        gap: 1rem;
+    }
+}
+
+/* Further reduce gap for very small screens */
+@media (max-width: 480px) {
+    .grid-container {
+        gap: 0.5rem;
+    }
+}
+
+  .map-grid-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+  }
+  
+  .lastdiv1
+  {
+    position: relative;
+    width: 620px!important;
+    left: 165px !important;
+   
+  }
+
+
+  

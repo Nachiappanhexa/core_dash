@@ -1,0 +1,8 @@
+{
+    "title":  "Store server ILO status",
+    "overallpercentage":  "99",
+    "totalcount":  228,
+    "online":  227,
+    "offine":  1,
+    "page":  "ilo"
+}

@@ -1,0 +1,1826 @@
+[
+    {
+        "ID":  "1",
+        "ServerName":  "SRV8037",
+        "Location":  "BRIDGWATER",
+        "pingstatus":  "1",
+        "latitude":  51.1367868,
+        "longitude":  -2.998093014
+    },
+    {
+        "ID":  "2",
+        "ServerName":  "SRV8041",
+        "Location":  "WISBECH",
+        "pingstatus":  "1",
+        "latitude":  52.65259875,
+        "longitude":  0.147705819
+    },
+    {
+        "ID":  "3",
+        "ServerName":  "SRV8044",
+        "Location":  "Martlesham Heath",
+        "pingstatus":  "1",
+        "latitude":  52.06662956,
+        "longitude":  1.278184928
+    },
+    {
+        "ID":  "4",
+        "ServerName":  "SRV8048",
+        "Location":  "TAUNTON",
+        "pingstatus":  "1",
+        "latitude":  51.02072457,
+        "longitude":  -3.092407183
+    },
+    {
+        "ID":  "5",
+        "ServerName":  "SRV8049",
+        "Location":  "FARNBOROUGH",
+        "pingstatus":  "1",
+        "latitude":  51.28762851,
+        "longitude":  -0.764769117
+    },
+    {
+        "ID":  "6",
+        "ServerName":  "SRV8053",
+        "Location":  "HULL",
+        "pingstatus":  "1",
+        "latitude":  53.77183304,
+        "longitude":  -0.323218443
+    },
+    {
+        "ID":  "7",
+        "ServerName":  "SRV8055",
+        "Location":  "BRADFORD",
+        "pingstatus":  "1",
+        "latitude":  53.79430874,
+        "longitude":  -1.782595295
+    },
+    {
+        "ID":  "8",
+        "ServerName":  "SRV8059",
+        "Location":  "WIMBLEDON",
+        "pingstatus":  "1",
+        "latitude":  51.42985426,
+        "longitude":  -0.185909312
+    },
+    {
+        "ID":  "9",
+        "ServerName":  "SRV8061",
+        "Location":  "LINCOLN",
+        "pingstatus":  "1",
+        "latitude":  53.23710757,
+        "longitude":  -0.507638153
+    },
+    {
+        "ID":  "10",
+        "ServerName":  "SRV8062",
+        "Location":  "DUNSTABLE",
+        "pingstatus":  "1",
+        "latitude":  51.88718905,
+        "longitude":  -0.507018076
+    },
+    {
+        "ID":  "11",
+        "ServerName":  "SRV8064",
+        "Location":  "SCUNTHORPE",
+        "pingstatus":  "1",
+        "latitude":  53.59533342,
+        "longitude":  -0.645904015
+    },
+    {
+        "ID":  "12",
+        "ServerName":  "SRV8065",
+        "Location":  "ROTHERHAM",
+        "pingstatus":  "1",
+        "latitude":  53.40621983,
+        "longitude":  -1.358582506
+    },
+    {
+        "ID":  "13",
+        "ServerName":  "SRV8066",
+        "Location":  "DEWSBURY",
+        "pingstatus":  "1",
+        "latitude":  53.6884687,
+        "longitude":  -1.630582363
+    },
+    {
+        "ID":  "14",
+        "ServerName":  "SRV8067",
+        "Location":  "SUTTON IN ASHFIELD",
+        "pingstatus":  "1",
+        "latitude":  53.1229511,
+        "longitude":  -1.25624546
+    },
+    {
+        "ID":  "15",
+        "ServerName":  "SRV8071",
+        "Location":  "NOTTINGHAM CENTRAL",
+        "pingstatus":  "1",
+        "latitude":  52.9381703,
+        "longitude":  -1.159486142
+    },
+    {
+        "ID":  "16",
+        "ServerName":  "SRV8072",
+        "Location":  "CRICKLEWOOD",
+        "pingstatus":  "1",
+        "latitude":  51.56120826,
+        "longitude":  -0.221575403
+    },
+    {
+        "ID":  "17",
+        "ServerName":  "SRV8074",
+        "Location":  "CHELTENHAM",
+        "pingstatus":  "1",
+        "latitude":  51.90769876,
+        "longitude":  -2.086695795
+    },
+    {
+        "ID":  "18",
+        "ServerName":  "SRV8075",
+        "Location":  "COVENTRY",
+        "pingstatus":  "1",
+        "latitude":  52.41509192,
+        "longitude":  -1.514776425
+    },
+    {
+        "ID":  "19",
+        "ServerName":  "SRV8077",
+        "Location":  "BRISTOL",
+        "pingstatus":  "1",
+        "latitude":  51.444445,
+        "longitude":  -2.49765775
+    },
+    {
+        "ID":  "20",
+        "ServerName":  "SRV8078",
+        "Location":  "RUISLIP",
+        "pingstatus":  "1",
+        "latitude":  51.55821093,
+        "longitude":  -0.382441336
+    },
+    {
+        "ID":  "21",
+        "ServerName":  "SRV8079",
+        "Location":  "DERBY",
+        "pingstatus":  "1",
+        "latitude":  52.90325514,
+        "longitude":  -1.444188643
+    },
+    {
+        "ID":  "22",
+        "ServerName":  "SRV8080",
+        "Location":  "WOKING",
+        "pingstatus":  "1",
+        "latitude":  51.3128822,
+        "longitude":  -0.608871881
+    },
+    {
+        "ID":  "23",
+        "ServerName":  "SRV8081",
+        "Location":  "STOCKPORT",
+        "pingstatus":  "1",
+        "latitude":  53.42040369,
+        "longitude":  -2.161999664
+    },
+    {
+        "ID":  "24",
+        "ServerName":  "SRV8082",
+        "Location":  "RAYLEIGH",
+        "pingstatus":  "1",
+        "latitude":  51.57576809,
+        "longitude":  0.603327872
+    },
+    {
+        "ID":  "25",
+        "ServerName":  "SRV8083",
+        "Location":  "CATFORD",
+        "pingstatus":  "1",
+        "latitude":  51.44277367,
+        "longitude":  -0.027122672
+    },
+    {
+        "ID":  "26",
+        "ServerName":  "SRV8088",
+        "Location":  "PUDSEY",
+        "pingstatus":  "1",
+        "latitude":  53.79825613,
+        "longitude":  -1.632793481
+    },
+    {
+        "ID":  "27",
+        "ServerName":  "SRV8090",
+        "Location":  "ASHFORD",
+        "pingstatus":  "1",
+        "latitude":  51.13245327,
+        "longitude":  0.901734984
+    },
+    {
+        "ID":  "28",
+        "ServerName":  "SRV8091",
+        "Location":  "TOTTENHAM",
+        "pingstatus":  "1",
+        "latitude":  51.58053812,
+        "longitude":  -0.077750869
+    },
+    {
+        "ID":  "29",
+        "ServerName":  "SRV8093",
+        "Location":  "DARTFORD",
+        "pingstatus":  "1",
+        "latitude":  51.44519819,
+        "longitude":  0.22145617
+    },
+    {
+        "ID":  "30",
+        "ServerName":  "SRV8096",
+        "Location":  "HEMEL HEMPSTEAD",
+        "pingstatus":  "1",
+        "latitude":  51.73633951,
+        "longitude":  -0.467103565
+    },
+    {
+        "ID":  "31",
+        "ServerName":  "SRV8208",
+        "Location":  "CANNING TOWN",
+        "pingstatus":  "1",
+        "latitude":  51.51700445,
+        "longitude":  0.006098594
+    },
+    {
+        "ID":  "32",
+        "ServerName":  "SRV8209",
+        "Location":  "PETERBOROUGH",
+        "pingstatus":  "1",
+        "latitude":  52.57337921,
+        "longitude":  -0.218689476
+    },
+    {
+        "ID":  "33",
+        "ServerName":  "SRV8214",
+        "Location":  "MERTON",
+        "pingstatus":  "1",
+        "latitude":  51.41102484,
+        "longitude":  -0.189602816
+    },
+    {
+        "ID":  "34",
+        "ServerName":  "SRV8215",
+        "Location":  "CROYDON",
+        "pingstatus":  "1",
+        "latitude":  51.35700901,
+        "longitude":  -0.114361847
+    },
+    {
+        "ID":  "35",
+        "ServerName":  "SRV8216",
+        "Location":  "HANDSWORTH",
+        "pingstatus":  "1",
+        "latitude":  52.50911166,
+        "longitude":  -1.954031392
+    },
+    {
+        "ID":  "36",
+        "ServerName":  "SRV8220",
+        "Location":  "REDDITCH",
+        "pingstatus":  "1",
+        "latitude":  52.30513848,
+        "longitude":  -1.935587808
+    },
+    {
+        "ID":  "37",
+        "ServerName":  "SRV8221",
+        "Location":  "WORTHING",
+        "pingstatus":  "1",
+        "latitude":  50.82382516,
+        "longitude":  -0.358292232
+    },
+    {
+        "ID":  "38",
+        "ServerName":  "SRV8222",
+        "Location":  "HAYES",
+        "pingstatus":  "1",
+        "latitude":  51.5142685,
+        "longitude":  -0.397099418
+    },
+    {
+        "ID":  "39",
+        "ServerName":  "SRV8225",
+        "Location":  "MINWORTH",
+        "pingstatus":  "1",
+        "latitude":  52.53240326,
+        "longitude":  -1.777274491
+    },
+    {
+        "ID":  "40",
+        "ServerName":  "SRV8226",
+        "Location":  "STOCKTON",
+        "pingstatus":  "1",
+        "latitude":  54.57504965,
+        "longitude":  -1.277493444
+    },
+    {
+        "ID":  "41",
+        "ServerName":  "SRV8227",
+        "Location":  "WATERLOOVILLE",
+        "pingstatus":  "1",
+        "latitude":  50.87710609,
+        "longitude":  -1.03358895
+    },
+    {
+        "ID":  "42",
+        "ServerName":  "SRV8228",
+        "Location":  "FAREHAM",
+        "pingstatus":  "1",
+        "latitude":  50.83591061,
+        "longitude":  -1.184569685
+    },
+    {
+        "ID":  "43",
+        "ServerName":  "SRV8229",
+        "Location":  "WALLSEND",
+        "pingstatus":  "1",
+        "latitude":  55.0107771,
+        "longitude":  -1.502509552
+    },
+    {
+        "ID":  "44",
+        "ServerName":  "SRV8230",
+        "Location":  "BRIGHTON",
+        "pingstatus":  "1",
+        "latitude":  50.83228605,
+        "longitude":  -0.158032221
+    },
+    {
+        "ID":  "45",
+        "ServerName":  "SRV8231",
+        "Location":  "STOKE",
+        "pingstatus":  "1",
+        "latitude":  53.00714526,
+        "longitude":  -2.166148733
+    },
+    {
+        "ID":  "46",
+        "ServerName":  "SRV8233",
+        "Location":  "CHATHAM",
+        "pingstatus":  "1",
+        "latitude":  51.3816788,
+        "longitude":  0.52084887
+    },
+    {
+        "ID":  "47",
+        "ServerName":  "SRV8234",
+        "Location":  "OXFORD",
+        "pingstatus":  "1",
+        "latitude":  51.75176735,
+        "longitude":  -1.286552653
+    },
+    {
+        "ID":  "48",
+        "ServerName":  "SRV8235",
+        "Location":  "HALL GREEN",
+        "pingstatus":  "1",
+        "latitude":  52.43638509,
+        "longitude":  -1.847027578
+    },
+    {
+        "ID":  "49",
+        "ServerName":  "SRV8236",
+        "Location":  "CLIFTON",
+        "pingstatus":  "1",
+        "latitude":  53.52449173,
+        "longitude":  -2.33438954
+    },
+    {
+        "ID":  "50",
+        "ServerName":  "SRV8237",
+        "Location":  "HANGER LANE",
+        "pingstatus":  "1",
+        "latitude":  51.53322497,
+        "longitude":  -0.296810404
+    },
+    {
+        "ID":  "51",
+        "ServerName":  "SRV8238",
+        "Location":  "ST. ALBANS",
+        "pingstatus":  "1",
+        "latitude":  51.75058863,
+        "longitude":  -0.277850372
+    },
+    {
+        "ID":  "52",
+        "ServerName":  "SRV8239",
+        "Location":  "DONCASTER",
+        "pingstatus":  "1",
+        "latitude":  53.52387025,
+        "longitude":  -1.101030258
+    },
+    {
+        "ID":  "53",
+        "ServerName":  "SRV8240",
+        "Location":  "DORKING",
+        "pingstatus":  "1",
+        "latitude":  51.22913488,
+        "longitude":  -0.338090801
+    },
+    {
+        "ID":  "54",
+        "ServerName":  "SRV8243",
+        "Location":  "WALTHAM CROSS",
+        "pingstatus":  "1",
+        "latitude":  51.6883362,
+        "longitude":  -0.034563439
+    },
+    {
+        "ID":  "55",
+        "ServerName":  "SRV8246",
+        "Location":  "BOURNEMOUTH",
+        "pingstatus":  "1",
+        "latitude":  50.75530503,
+        "longitude":  -1.927764974
+    },
+    {
+        "ID":  "56",
+        "ServerName":  "SRV8247",
+        "Location":  "BARNSLEY",
+        "pingstatus":  "1",
+        "latitude":  53.56199747,
+        "longitude":  -1.46977635
+    },
+    {
+        "ID":  "57",
+        "ServerName":  "SRV8248",
+        "Location":  "PERTH",
+        "pingstatus":  "1",
+        "latitude":  56.3965635,
+        "longitude":  -3.441614566
+    },
+    {
+        "ID":  "58",
+        "ServerName":  "SRV8250",
+        "Location":  "CREWE",
+        "pingstatus":  "1",
+        "latitude":  53.09288071,
+        "longitude":  -2.438739455
+    },
+    {
+        "ID":  "59",
+        "ServerName":  "SRV8251",
+        "Location":  "LANCASTER",
+        "pingstatus":  "1",
+        "latitude":  54.05450011,
+        "longitude":  -2.844022279
+    },
+    {
+        "ID":  "60",
+        "ServerName":  "SRV8252",
+        "Location":  "DUDLEY",
+        "pingstatus":  "1",
+        "latitude":  52.49087729,
+        "longitude":  -2.117713035
+    },
+    {
+        "ID":  "61",
+        "ServerName":  "SRV8253",
+        "Location":  "CARLISLE",
+        "pingstatus":  "1",
+        "latitude":  54.89778944,
+        "longitude":  -2.93255316
+    },
+    {
+        "ID":  "62",
+        "ServerName":  "SRV8256",
+        "Location":  "BARNSTAPLE",
+        "pingstatus":  "1",
+        "latitude":  51.07278295,
+        "longitude":  -4.037103858
+    },
+    {
+        "ID":  "63",
+        "ServerName":  "SRV8257",
+        "Location":  "NOTTINGHAM NORTH",
+        "pingstatus":  "1",
+        "latitude":  53.00266456,
+        "longitude":  -1.139026985
+    },
+    {
+        "ID":  "64",
+        "ServerName":  "SRV8258",
+        "Location":  "DUNDEE",
+        "pingstatus":  "1",
+        "latitude":  56.4771301,
+        "longitude":  -2.927917801
+    },
+    {
+        "ID":  "65",
+        "ServerName":  "SRV8260",
+        "Location":  "HANWORTH",
+        "pingstatus":  "1",
+        "latitude":  51.43646416,
+        "longitude":  -0.381154403
+    },
+    {
+        "ID":  "66",
+        "ServerName":  "SRV8261",
+        "Location":  "CANNOCK",
+        "pingstatus":  "1",
+        "latitude":  52.68902766,
+        "longitude":  -2.021489094
+    },
+    {
+        "ID":  "67",
+        "ServerName":  "SRV8262",
+        "Location":  "CHESTER",
+        "pingstatus":  "1",
+        "latitude":  53.19533596,
+        "longitude":  -2.913713041
+    },
+    {
+        "ID":  "68",
+        "ServerName":  "SRV8263",
+        "Location":  "HUDDERSFIELD",
+        "pingstatus":  "1",
+        "latitude":  53.64180388,
+        "longitude":  -1.794840533
+    },
+    {
+        "ID":  "69",
+        "ServerName":  "SRV8264",
+        "Location":  "BEDFORD",
+        "pingstatus":  "1",
+        "latitude":  52.14395889,
+        "longitude":  -0.42265658
+    },
+    {
+        "ID":  "70",
+        "ServerName":  "SRV8265",
+        "Location":  "EASTBOURNE",
+        "pingstatus":  "1",
+        "latitude":  50.78873712,
+        "longitude":  0.296690949
+    },
+    {
+        "ID":  "71",
+        "ServerName":  "SRV8267",
+        "Location":  "PONTEFRACT",
+        "pingstatus":  "1",
+        "latitude":  53.6968717,
+        "longitude":  -1.321039109
+    },
+    {
+        "ID":  "72",
+        "ServerName":  "SRV8268",
+        "Location":  "SHREWSBURY",
+        "pingstatus":  "1",
+        "latitude":  52.73318849,
+        "longitude":  -2.729035024
+    },
+    {
+        "ID":  "73",
+        "ServerName":  "SRV8270",
+        "Location":  "LETCHWORTH",
+        "pingstatus":  "1",
+        "latitude":  51.98273066,
+        "longitude":  -0.202375769
+    },
+    {
+        "ID":  "74",
+        "ServerName":  "SRV8271",
+        "Location":  "BRIDGEND",
+        "pingstatus":  "1",
+        "latitude":  51.49569959,
+        "longitude":  -3.567010214
+    },
+    {
+        "ID":  "75",
+        "ServerName":  "SRV8273",
+        "Location":  "PRESTON",
+        "pingstatus":  "1",
+        "latitude":  53.76814908,
+        "longitude":  -2.705808907
+    },
+    {
+        "ID":  "76",
+        "ServerName":  "SRV8274",
+        "Location":  "YEOVIL",
+        "pingstatus":  "1",
+        "latitude":  50.93508853,
+        "longitude":  -2.665264718
+    },
+    {
+        "ID":  "77",
+        "ServerName":  "SRV8276",
+        "Location":  "AINTREE",
+        "pingstatus":  "1",
+        "latitude":  53.48418006,
+        "longitude":  -2.951821467
+    },
+    {
+        "ID":  "78",
+        "ServerName":  "SRV8277",
+        "Location":  "BANBURY",
+        "pingstatus":  "1",
+        "latitude":  52.07031889,
+        "longitude":  -1.338090972
+    },
+    {
+        "ID":  "79",
+        "ServerName":  "SRV8279",
+        "Location":  "BLETCHLEY",
+        "pingstatus":  "1",
+        "latitude":  52.00274345,
+        "longitude":  -0.723812585
+    },
+    {
+        "ID":  "80",
+        "ServerName":  "SRV8281",
+        "Location":  "BLACKHEATH",
+        "pingstatus":  "1",
+        "latitude":  51.47306189,
+        "longitude":  -0.018114103
+    },
+    {
+        "ID":  "81",
+        "ServerName":  "SRV8282",
+        "Location":  "STIRLING",
+        "pingstatus":  "1",
+        "latitude":  56.11303511,
+        "longitude":  -3.909522761
+    },
+    {
+        "ID":  "82",
+        "ServerName":  "SRV8283",
+        "Location":  "CHESTERFIELD",
+        "pingstatus":  "1",
+        "latitude":  53.23396527,
+        "longitude":  -1.439620083
+    },
+    {
+        "ID":  "83",
+        "ServerName":  "SRV8284",
+        "Location":  "BURY",
+        "pingstatus":  "1",
+        "latitude":  53.59703856,
+        "longitude":  -2.291758439
+    },
+    {
+        "ID":  "84",
+        "ServerName":  "SRV8287",
+        "Location":  "COLCHESTER",
+        "pingstatus":  "1",
+        "latitude":  51.89924682,
+        "longitude":  0.89826271
+    },
+    {
+        "ID":  "85",
+        "ServerName":  "SRV8290",
+        "Location":  "NEWPORT",
+        "pingstatus":  "1",
+        "latitude":  51.59592523,
+        "longitude":  -2.99881434
+    },
+    {
+        "ID":  "86",
+        "ServerName":  "SRV8291",
+        "Location":  "BAGULEY",
+        "pingstatus":  "1",
+        "latitude":  53.40221608,
+        "longitude":  -2.298559807
+    },
+    {
+        "ID":  "87",
+        "ServerName":  "SRV8292",
+        "Location":  "PLYMOUTH",
+        "pingstatus":  "1",
+        "latitude":  50.39418641,
+        "longitude":  -4.091169692
+    },
+    {
+        "ID":  "88",
+        "ServerName":  "SRV8293",
+        "Location":  "NORTHAMPTON",
+        "pingstatus":  "1",
+        "latitude":  52.23923974,
+        "longitude":  -0.927126235
+    },
+    {
+        "ID":  "89",
+        "ServerName":  "SRV8296",
+        "Location":  "BLACKPOOL",
+        "pingstatus":  "1",
+        "latitude":  53.80302036,
+        "longitude":  -3.004674295
+    },
+    {
+        "ID":  "90",
+        "ServerName":  "SRV8297",
+        "Location":  "BARKING EXTRA",
+        "pingstatus":  "1",
+        "latitude":  51.53917409,
+        "longitude":  0.068528304
+    },
+    {
+        "ID":  "91",
+        "ServerName":  "SRV8298",
+        "Location":  "BIRKENHEAD",
+        "pingstatus":  "1",
+        "latitude":  53.38614967,
+        "longitude":  -3.016030291
+    },
+    {
+        "ID":  "92",
+        "ServerName":  "SRV8299",
+        "Location":  "STAFFORD",
+        "pingstatus":  "1",
+        "latitude":  52.81061031,
+        "longitude":  -2.120687277
+    },
+    {
+        "ID":  "93",
+        "ServerName":  "SRV8301",
+        "Location":  "WARRINGTON",
+        "pingstatus":  "1",
+        "latitude":  53.39420905,
+        "longitude":  -2.592206282
+    },
+    {
+        "ID":  "94",
+        "ServerName":  "SRV8303",
+        "Location":  "HALIFAX",
+        "pingstatus":  "1",
+        "latitude":  53.72517481,
+        "longitude":  -1.857029183
+    },
+    {
+        "ID":  "95",
+        "ServerName":  "SRV8308",
+        "Location":  "WREXHAM",
+        "pingstatus":  "1",
+        "latitude":  53.05110658,
+        "longitude":  -2.980192286
+    },
+    {
+        "ID":  "96",
+        "ServerName":  "SRV8309",
+        "Location":  "EPSOM",
+        "pingstatus":  "1",
+        "latitude":  51.34088126,
+        "longitude":  -0.258313463
+    },
+    {
+        "ID":  "97",
+        "ServerName":  "SRV8310",
+        "Location":  "ERITH",
+        "pingstatus":  "1",
+        "latitude":  51.48076519,
+        "longitude":  0.166251497
+    },
+    {
+        "ID":  "98",
+        "ServerName":  "SRV8312",
+        "Location":  "BRACKNELL",
+        "pingstatus":  "1",
+        "latitude":  51.41525912,
+        "longitude":  -0.762616308
+    },
+    {
+        "ID":  "99",
+        "ServerName":  "SRV8313",
+        "Location":  "HIGH WYCOMBE",
+        "pingstatus":  "1",
+        "latitude":  51.61864567,
+        "longitude":  -0.719678372
+    },
+    {
+        "ID":  "100",
+        "ServerName":  "SRV8314",
+        "Location":  "MAIDSTONE EXTRA",
+        "pingstatus":  "1",
+        "latitude":  51.27492391,
+        "longitude":  0.517050073
+    },
+    {
+        "ID":  "101",
+        "ServerName":  "SRV8316",
+        "Location":  "AYLESBURY EXTRA",
+        "pingstatus":  "1",
+        "latitude":  51.82060107,
+        "longitude":  -0.810223623
+    },
+    {
+        "ID":  "102",
+        "ServerName":  "SRV8317",
+        "Location":  "LOWESTOFT",
+        "pingstatus":  "1",
+        "latitude":  52.47758932,
+        "longitude":  1.733128245
+    },
+    {
+        "ID":  "103",
+        "ServerName":  "SRV8318",
+        "Location":  "BICESTER",
+        "pingstatus":  "1",
+        "latitude":  51.89843755,
+        "longitude":  -1.141989477
+    },
+    {
+        "ID":  "104",
+        "ServerName":  "SRV8319",
+        "Location":  "BEXHILL",
+        "pingstatus":  "1",
+        "latitude":  50.84487334,
+        "longitude":  0.501219016
+    },
+    {
+        "ID":  "105",
+        "ServerName":  "SRV8320",
+        "Location":  "SITTINGBOURNE",
+        "pingstatus":  "1",
+        "latitude":  51.34260446,
+        "longitude":  0.717061151
+    },
+    {
+        "ID":  "106",
+        "ServerName":  "SRV8321",
+        "Location":  "ANDOVER",
+        "pingstatus":  "1",
+        "latitude":  51.2157367,
+        "longitude":  -1.47881428
+    },
+    {
+        "ID":  "107",
+        "ServerName":  "SRV8322",
+        "Location":  "EDMONTON EXTRA",
+        "pingstatus":  "1",
+        "latitude":  51.61067208,
+        "longitude":  -0.042223914
+    },
+    {
+        "ID":  "108",
+        "ServerName":  "SRV8323",
+        "Location":  "SWANSEA EXTRA",
+        "pingstatus":  "1",
+        "latitude":  51.63459555,
+        "longitude":  -3.956937626
+    },
+    {
+        "ID":  "109",
+        "ServerName":  "SRV8326",
+        "Location":  "KETTERING EXTRA",
+        "pingstatus":  "1",
+        "latitude":  52.40289719,
+        "longitude":  -0.736229639
+    },
+    {
+        "ID":  "110",
+        "ServerName":  "SRV8327",
+        "Location":  "WAKEFIELD",
+        "pingstatus":  "1",
+        "latitude":  53.68045077,
+        "longitude":  -1.507096732
+    },
+    {
+        "ID":  "111",
+        "ServerName":  "SRV8328",
+        "Location":  "SOUTHAMPTON EXTRA",
+        "pingstatus":  "1",
+        "latitude":  50.92988835,
+        "longitude":  -1.425313696
+    },
+    {
+        "ID":  "112",
+        "ServerName":  "SRV8329",
+        "Location":  "WESTON SUPER MARE",
+        "pingstatus":  "1",
+        "latitude":  51.34015601,
+        "longitude":  -2.961343632
+    },
+    {
+        "ID":  "113",
+        "ServerName":  "SRV8331",
+        "Location":  "TAMWORTH",
+        "pingstatus":  "1",
+        "latitude":  52.60426375,
+        "longitude":  -1.672989797
+    },
+    {
+        "ID":  "114",
+        "ServerName":  "SRV8332",
+        "Location":  "BASINGSTOKE",
+        "pingstatus":  "1",
+        "latitude":  51.26538596,
+        "longitude":  -1.10565284
+    },
+    {
+        "ID":  "115",
+        "ServerName":  "SRV8334",
+        "Location":  "PERRY BAR EXTRA",
+        "pingstatus":  "1",
+        "latitude":  52.52260916,
+        "longitude":  -1.897390923
+    },
+    {
+        "ID":  "116",
+        "ServerName":  "SRV8336",
+        "Location":  "EXETER",
+        "pingstatus":  "1",
+        "latitude":  50.72016067,
+        "longitude":  -3.464757864
+    },
+    {
+        "ID":  "117",
+        "ServerName":  "SRV8337",
+        "Location":  "HARLOW EXTRA",
+        "pingstatus":  "1",
+        "latitude":  51.78095632,
+        "longitude":  0.10723392
+    },
+    {
+        "ID":  "118",
+        "ServerName":  "SRV8338",
+        "Location":  "HAVANT EXTRA",
+        "pingstatus":  "1",
+        "latitude":  50.85275389,
+        "longitude":  -0.986703032
+    },
+    {
+        "ID":  "119",
+        "ServerName":  "SRV8340",
+        "Location":  "SLOUGH",
+        "pingstatus":  "1",
+        "latitude":  51.51963192,
+        "longitude":  -0.615570644
+    },
+    {
+        "ID":  "120",
+        "ServerName":  "SRV8342",
+        "Location":  "SWINDON EXTRA",
+        "pingstatus":  "1",
+        "latitude":  51.57233319,
+        "longitude":  -1.767085607
+    },
+    {
+        "ID":  "121",
+        "ServerName":  "SRV8343",
+        "Location":  "TELFORD",
+        "pingstatus":  "1",
+        "latitude":  52.68863126,
+        "longitude":  -2.444149801
+    },
+    {
+        "ID":  "122",
+        "ServerName":  "SRV8344",
+        "Location":  "BROADSTAIRS EXTRA",
+        "pingstatus":  "1",
+        "latitude":  51.35739947,
+        "longitude":  1.40086066
+    },
+    {
+        "ID":  "123",
+        "ServerName":  "SRV8347",
+        "Location":  "CAERPHILLY",
+        "pingstatus":  "1",
+        "latitude":  51.59089434,
+        "longitude":  -3.214807854
+    },
+    {
+        "ID":  "124",
+        "ServerName":  "SRV8348",
+        "Location":  "NEWCASTLE EXTRA",
+        "pingstatus":  "1",
+        "latitude":  54.99002745,
+        "longitude":  -1.676086597
+    },
+    {
+        "ID":  "125",
+        "ServerName":  "SRV8349",
+        "Location":  "CHIPPENHAM",
+        "pingstatus":  "1",
+        "latitude":  51.46426882,
+        "longitude":  -2.144857553
+    },
+    {
+        "ID":  "126",
+        "ServerName":  "SRV8350",
+        "Location":  "IPSWICH",
+        "pingstatus":  "1",
+        "latitude":  52.05497056,
+        "longitude":  1.135206227
+    },
+    {
+        "ID":  "127",
+        "ServerName":  "SRV8351",
+        "Location":  "Cirencester",
+        "pingstatus":  "1",
+        "latitude":  51.70619952,
+        "longitude":  -1.963563073
+    },
+    {
+        "ID":  "128",
+        "ServerName":  "SRV8352",
+        "Location":  "GLASGOW",
+        "pingstatus":  "1",
+        "latitude":  55.837303,
+        "longitude":  -4.158397514
+    },
+    {
+        "ID":  "129",
+        "ServerName":  "SRV8353",
+        "Location":  "HAVERFORDWEST",
+        "pingstatus":  "1",
+        "latitude":  51.81575816,
+        "longitude":  -4.96374871
+    },
+    {
+        "ID":  "130",
+        "ServerName":  "SRV8354",
+        "Location":  "EDINBURGH EXTRA",
+        "pingstatus":  "1",
+        "latitude":  55.93732888,
+        "longitude":  -3.243602575
+    },
+    {
+        "ID":  "131",
+        "ServerName":  "SRV8355",
+        "Location":  "BOSTON",
+        "pingstatus":  "1",
+        "latitude":  52.97642048,
+        "longitude":  -0.027625984
+    },
+    {
+        "ID":  "132",
+        "ServerName":  "SRV8357",
+        "Location":  "THETFORD",
+        "pingstatus":  "1",
+        "latitude":  52.4071074,
+        "longitude":  0.731352298
+    },
+    {
+        "ID":  "133",
+        "ServerName":  "SRV8359",
+        "Location":  "LICHFIELD",
+        "pingstatus":  "1",
+        "latitude":  52.6895811,
+        "longitude":  -1.806848571
+    },
+    {
+        "ID":  "134",
+        "ServerName":  "SRV8360",
+        "Location":  "ASHBY DE LA ZOUCH",
+        "pingstatus":  "1",
+        "latitude":  52.75043941,
+        "longitude":  -1.454039767
+    },
+    {
+        "ID":  "135",
+        "ServerName":  "SRV8361",
+        "Location":  "NEW MARKET",
+        "pingstatus":  "1",
+        "latitude":  52.25966397,
+        "longitude":  0.395686827
+    },
+    {
+        "ID":  "136",
+        "ServerName":  "SRV8364",
+        "Location":  "BULWELL",
+        "pingstatus":  "1",
+        "latitude":  53.01166997,
+        "longitude":  -1.18985955
+    },
+    {
+        "ID":  "137",
+        "ServerName":  "SRV8365",
+        "Location":  "DUMFRIES",
+        "pingstatus":  "1",
+        "latitude":  55.078924,
+        "longitude":  -3.620517177
+    },
+    {
+        "ID":  "138",
+        "ServerName":  "SRV8366",
+        "Location":  "GLOSSOP",
+        "pingstatus":  "1",
+        "latitude":  53.44424568,
+        "longitude":  -1.957667413
+    },
+    {
+        "ID":  "139",
+        "ServerName":  "SRV8367",
+        "Location":  "HEREFORD",
+        "pingstatus":  "1",
+        "latitude":  52.06122754,
+        "longitude":  -2.71466956
+    },
+    {
+        "ID":  "140",
+        "ServerName":  "SRV8370",
+        "Location":  "PLUMSTEAD",
+        "pingstatus":  "1",
+        "latitude":  51.47854559,
+        "longitude":  0.101340141
+    },
+    {
+        "ID":  "141",
+        "ServerName":  "SRV8371",
+        "Location":  "READING",
+        "pingstatus":  "1",
+        "latitude":  51.46132456,
+        "longitude":  -1.014180193
+    },
+    {
+        "ID":  "142",
+        "ServerName":  "SRV8372",
+        "Location":  "CHADWELL HEATH",
+        "pingstatus":  "1",
+        "latitude":  51.56788823,
+        "longitude":  0.117375364
+    },
+    {
+        "ID":  "143",
+        "ServerName":  "SRV8374",
+        "Location":  "OLDHAM",
+        "pingstatus":  "1",
+        "latitude":  53.53772975,
+        "longitude":  -2.123929654
+    },
+    {
+        "ID":  "144",
+        "ServerName":  "SRV8377",
+        "Location":  "GLOUCESTER",
+        "pingstatus":  "1",
+        "latitude":  51.83693243,
+        "longitude":  -2.26917609
+    },
+    {
+        "ID":  "145",
+        "ServerName":  "SRV8378",
+        "Location":  "CORBY",
+        "pingstatus":  "1",
+        "latitude":  52.49806028,
+        "longitude":  -0.678325748
+    },
+    {
+        "ID":  "146",
+        "ServerName":  "SRV8381",
+        "Location":  "BRAINTREE",
+        "pingstatus":  "1",
+        "latitude":  51.87370321,
+        "longitude":  0.568167574
+    },
+    {
+        "ID":  "147",
+        "ServerName":  "SRV8382",
+        "Location":  "EAST GRINSTEAD",
+        "pingstatus":  "1",
+        "latitude":  51.1358621,
+        "longitude":  -0.034213585
+    },
+    {
+        "ID":  "148",
+        "ServerName":  "SRV8385",
+        "Location":  "GUILDFORD",
+        "pingstatus":  "1",
+        "latitude":  51.24570422,
+        "longitude":  -0.57961738
+    },
+    {
+        "ID":  "149",
+        "ServerName":  "SRV8388",
+        "Location":  "CROYDON COLO",
+        "pingstatus":  "1",
+        "latitude":  51.35700751,
+        "longitude":  -0.114377414
+    },
+    {
+        "ID":  "150",
+        "ServerName":  "SRV8390",
+        "Location":  "CRAWLEY",
+        "pingstatus":  "1",
+        "latitude":  51.13466835,
+        "longitude":  -0.186472803
+    },
+    {
+        "ID":  "151",
+        "ServerName":  "SRV8393",
+        "Location":  "WIGSTON",
+        "pingstatus":  "1",
+        "latitude":  52.58047007,
+        "longitude":  -1.129180907
+    },
+    {
+        "ID":  "152",
+        "ServerName":  "SRV8397",
+        "Location":  "WATFORD",
+        "pingstatus":  "1",
+        "latitude":  51.66678998,
+        "longitude":  -0.36643268
+    },
+    {
+        "ID":  "153",
+        "ServerName":  "SRV8398",
+        "Location":  "LUTON",
+        "pingstatus":  "1",
+        "latitude":  51.8730718,
+        "longitude":  -0.398983693
+    },
+    {
+        "ID":  "154",
+        "ServerName":  "SRV8399",
+        "Location":  "NORTHALLERTON",
+        "pingstatus":  "1",
+        "latitude":  54.34664117,
+        "longitude":  -1.442636849
+    },
+    {
+        "ID":  "155",
+        "ServerName":  "SRV8404",
+        "Location":  "BURTON SOUTH",
+        "pingstatus":  "1",
+        "latitude":  52.80347608,
+        "longitude":  -1.651418598
+    },
+    {
+        "ID":  "156",
+        "ServerName":  "SRV8406",
+        "Location":  "WORCESTER",
+        "pingstatus":  "1",
+        "latitude":  52.19396014,
+        "longitude":  -2.212136305
+    },
+    {
+        "ID":  "157",
+        "ServerName":  "SRV8407",
+        "Location":  "TRURO",
+        "pingstatus":  "1",
+        "latitude":  50.26419642,
+        "longitude":  -5.122884763
+    },
+    {
+        "ID":  "158",
+        "ServerName":  "SRV8409",
+        "Location":  "BRENTWOOD",
+        "pingstatus":  "1",
+        "latitude":  51.6110904,
+        "longitude":  0.273709808
+    },
+    {
+        "ID":  "159",
+        "ServerName":  "SRV8410",
+        "Location":  "GRAVESEND",
+        "pingstatus":  "1",
+        "latitude":  51.44365258,
+        "longitude":  0.364314878
+    },
+    {
+        "ID":  "160",
+        "ServerName":  "SRV8411",
+        "Location":  "SEVENOAKS",
+        "pingstatus":  "1",
+        "latitude":  51.29256792,
+        "longitude":  0.190701057
+    },
+    {
+        "ID":  "161",
+        "ServerName":  "SRV8412",
+        "Location":  "SHEFFIELD NORTH",
+        "pingstatus":  "1",
+        "latitude":  53.3913762,
+        "longitude":  -1.478906057
+    },
+    {
+        "ID":  "162",
+        "ServerName":  "SRV8414",
+        "Location":  "EALING",
+        "pingstatus":  "1",
+        "latitude":  51.49938754,
+        "longitude":  -0.305895339
+    },
+    {
+        "ID":  "163",
+        "ServerName":  "SRV8415",
+        "Location":  "MACCLESFIELD",
+        "pingstatus":  "1",
+        "latitude":  53.27232049,
+        "longitude":  -2.11859494
+    },
+    {
+        "ID":  "164",
+        "ServerName":  "SRV8416",
+        "Location":  "STEVENAGE",
+        "pingstatus":  "1",
+        "latitude":  51.89002188,
+        "longitude":  -0.195915209
+    },
+    {
+        "ID":  "165",
+        "ServerName":  "SRV8417",
+        "Location":  "STIRCHLEY",
+        "pingstatus":  "1",
+        "latitude":  52.42361144,
+        "longitude":  -1.922515621
+    },
+    {
+        "ID":  "166",
+        "ServerName":  "SRV8428",
+        "Location":  "KINGS LYNN",
+        "pingstatus":  "1",
+        "latitude":  52.76172485,
+        "longitude":  0.39981447
+    },
+    {
+        "ID":  "167",
+        "ServerName":  "SRV8429",
+        "Location":  "MILTON KEYNES",
+        "pingstatus":  "1",
+        "latitude":  52.02679585,
+        "longitude":  -0.763530792
+    },
+    {
+        "ID":  "168",
+        "ServerName":  "SRV8430",
+        "Location":  "SALISBURY",
+        "pingstatus":  "1",
+        "latitude":  51.06302257,
+        "longitude":  -1.776313821
+    },
+    {
+        "ID":  "169",
+        "ServerName":  "SRV8431",
+        "Location":  "CHORLEY",
+        "pingstatus":  "1",
+        "latitude":  53.64963676,
+        "longitude":  -2.627427991
+    },
+    {
+        "ID":  "170",
+        "ServerName":  "SRV8434",
+        "Location":  "WORKSOP",
+        "pingstatus":  "1",
+        "latitude":  53.31171343,
+        "longitude":  -1.129779664
+    },
+    {
+        "ID":  "171",
+        "ServerName":  "SRV8436",
+        "Location":  "HALESOWEN",
+        "pingstatus":  "1",
+        "latitude":  52.45447318,
+        "longitude":  -2.041552882
+    },
+    {
+        "ID":  "172",
+        "ServerName":  "SRV8437",
+        "Location":  "WOLVERHAMPTON",
+        "pingstatus":  "1",
+        "latitude":  52.59834761,
+        "longitude":  -2.130285646
+    },
+    {
+        "ID":  "173",
+        "ServerName":  "SRV8441",
+        "Location":  "SOUTH SHIELDS",
+        "pingstatus":  "1",
+        "latitude":  54.99378322,
+        "longitude":  -1.434685621
+    },
+    {
+        "ID":  "174",
+        "ServerName":  "SRV8443",
+        "Location":  "GRANTHAM",
+        "pingstatus":  "1",
+        "latitude":  52.92156892,
+        "longitude":  -0.652051697
+    },
+    {
+        "ID":  "175",
+        "ServerName":  "SRV8444",
+        "Location":  "LITTLEHAMPTON",
+        "pingstatus":  "1",
+        "latitude":  50.81533605,
+        "longitude":  -0.558725922
+    },
+    {
+        "ID":  "176",
+        "ServerName":  "SRV8448",
+        "Location":  "BURGESS HILL",
+        "pingstatus":  "1",
+        "latitude":  50.95461458,
+        "longitude":  -0.139463592
+    },
+    {
+        "ID":  "177",
+        "ServerName":  "SRV8449",
+        "Location":  "MALDON",
+        "pingstatus":  "1",
+        "latitude":  51.72185508,
+        "longitude":  0.663648656
+    },
+    {
+        "ID":  "178",
+        "ServerName":  "SRV8451",
+        "Location":  "HAILSHAM",
+        "pingstatus":  "1",
+        "latitude":  50.86083203,
+        "longitude":  0.248746015
+    },
+    {
+        "ID":  "179",
+        "ServerName":  "SRV8452",
+        "Location":  "NUNEATON",
+        "pingstatus":  "1",
+        "latitude":  52.52836113,
+        "longitude":  -1.461804605
+    },
+    {
+        "ID":  "180",
+        "ServerName":  "SRV8453",
+        "Location":  "HERTFORD",
+        "pingstatus":  "1",
+        "latitude":  51.797168,
+        "longitude":  -0.069003059
+    },
+    {
+        "ID":  "181",
+        "ServerName":  "SRV8454",
+        "Location":  "BEVERLEY",
+        "pingstatus":  "1",
+        "latitude":  53.84469329,
+        "longitude":  -0.408835385
+    },
+    {
+        "ID":  "182",
+        "ServerName":  "SRV8455",
+        "Location":  "TUNSTALL",
+        "pingstatus":  "1",
+        "latitude":  53.06743737,
+        "longitude":  -2.219981584
+    },
+    {
+        "ID":  "183",
+        "ServerName":  "SRV8456",
+        "Location":  "CHESHAM",
+        "pingstatus":  "1",
+        "latitude":  51.70967912,
+        "longitude":  -0.611970607
+    },
+    {
+        "ID":  "184",
+        "ServerName":  "SRV8457",
+        "Location":  "BISHOPS STORTFORD",
+        "pingstatus":  "1",
+        "latitude":  51.88403495,
+        "longitude":  0.174658471
+    },
+    {
+        "ID":  "185",
+        "ServerName":  "SRV8458",
+        "Location":  "HINCKLEY",
+        "pingstatus":  "1",
+        "latitude":  52.55451459,
+        "longitude":  -1.387282608
+    },
+    {
+        "ID":  "186",
+        "ServerName":  "SRV8459",
+        "Location":  "WINSFORD",
+        "pingstatus":  "1",
+        "latitude":  53.20005052,
+        "longitude":  -2.514140094
+    },
+    {
+        "ID":  "187",
+        "ServerName":  "SRV8460",
+        "Location":  "RUSHDEN",
+        "pingstatus":  "1",
+        "latitude":  52.29921978,
+        "longitude":  -0.616279345
+    },
+    {
+        "ID":  "188",
+        "ServerName":  "SRV8461",
+        "Location":  "WEST WICKHAM",
+        "pingstatus":  "1",
+        "latitude":  51.36944754,
+        "longitude":  0.000384217
+    },
+    {
+        "ID":  "189",
+        "ServerName":  "SRV8464",
+        "Location":  "HUNTINGDON",
+        "pingstatus":  "1",
+        "latitude":  52.34022632,
+        "longitude":  -0.186905906
+    },
+    {
+        "ID":  "190",
+        "ServerName":  "SRV8465",
+        "Location":  "WINNERSH",
+        "pingstatus":  "1",
+        "latitude":  51.43552518,
+        "longitude":  -0.89406813
+    },
+    {
+        "ID":  "191",
+        "ServerName":  "SRV8467",
+        "Location":  "BOREHAMWOOD",
+        "pingstatus":  "1",
+        "latitude":  51.65823151,
+        "longitude":  -0.254428008
+    },
+    {
+        "ID":  "192",
+        "ServerName":  "SRV8468",
+        "Location":  "SHEFFIELD CRYSTAL PEAKS",
+        "pingstatus":  "1",
+        "latitude":  53.34462967,
+        "longitude":  -1.356877817
+    },
+    {
+        "ID":  "193",
+        "ServerName":  "SRV8469",
+        "Location":  "GRIMSBY",
+        "pingstatus":  "1",
+        "latitude":  53.57507715,
+        "longitude":  -0.100691267
+    },
+    {
+        "ID":  "194",
+        "ServerName":  "SRV8471",
+        "Location":  "YORK",
+        "pingstatus":  "1",
+        "latitude":  53.98881598,
+        "longitude":  -1.095307423
+    },
+    {
+        "ID":  "195",
+        "ServerName":  "SRV8473",
+        "Location":  "HENDON",
+        "pingstatus":  "1",
+        "latitude":  51.58078752,
+        "longitude":  -0.245241915
+    },
+    {
+        "ID":  "196",
+        "ServerName":  "SRV8474",
+        "Location":  "HEDGE END",
+        "pingstatus":  "1",
+        "latitude":  50.92511495,
+        "longitude":  -1.308175411
+    },
+    {
+        "ID":  "197",
+        "ServerName":  "SRV8475",
+        "Location":  "ALTON",
+        "pingstatus":  "1",
+        "latitude":  51.15741971,
+        "longitude":  -0.95653935
+    },
+    {
+        "ID":  "198",
+        "ServerName":  "SRV8479",
+        "Location":  "FOLKESTONE",
+        "pingstatus":  "1",
+        "latitude":  51.09509128,
+        "longitude":  1.165791509
+    },
+    {
+        "ID":  "199",
+        "ServerName":  "SRV8480",
+        "Location":  "ANERLEY",
+        "pingstatus":  "1",
+        "latitude":  51.41251679,
+        "longitude":  -0.065110901
+    },
+    {
+        "ID":  "200",
+        "ServerName":  "SRV8481",
+        "Location":  "Christchurch",
+        "pingstatus":  "1",
+        "latitude":  50.73957423,
+        "longitude":  -1.745945162
+    },
+    {
+        "ID":  "201",
+        "ServerName":  "SRV8482",
+        "Location":  "Sutton",
+        "pingstatus":  "1",
+        "latitude":  51.377319,
+        "longitude":  -0.206971566
+    },
+    {
+        "ID":  "202",
+        "ServerName":  "SRV8483",
+        "Location":  "Shipley",
+        "pingstatus":  "1",
+        "latitude":  53.83975888,
+        "longitude":  -1.768497799
+    },
+    {
+        "ID":  "203",
+        "ServerName":  "SRV8484",
+        "Location":  "TUNBRIDGE WELLS",
+        "pingstatus":  "1",
+        "latitude":  51.15433009,
+        "longitude":  0.288403137
+    },
+    {
+        "ID":  "204",
+        "ServerName":  "SRV8485",
+        "Location":  "Winchester",
+        "pingstatus":  "1",
+        "latitude":  51.06888997,
+        "longitude":  -1.297553608
+    },
+    {
+        "ID":  "205",
+        "ServerName":  "SRV8486",
+        "Location":  "MIDSOMER NORTON",
+        "pingstatus":  "1",
+        "latitude":  51.29243491,
+        "longitude":  -2.500331994
+    },
+    {
+        "ID":  "206",
+        "ServerName":  "SRV8488",
+        "Location":  "RUGBY",
+        "pingstatus":  "1",
+        "latitude":  52.38442829,
+        "longitude":  -1.258333455
+    },
+    {
+        "ID":  "207",
+        "ServerName":  "SRV8492",
+        "Location":  "BOGNOR REGIS",
+        "pingstatus":  "1",
+        "latitude":  50.79935947,
+        "longitude":  -0.665097121
+    },
+    {
+        "ID":  "208",
+        "ServerName":  "SRV8493",
+        "Location":  "STOWMARKET",
+        "pingstatus":  "1",
+        "latitude":  52.18430746,
+        "longitude":  1.003431797
+    },
+    {
+        "ID":  "209",
+        "ServerName":  "SRV8494",
+        "Location":  "LOUGHTON",
+        "pingstatus":  "1",
+        "latitude":  51.6449099,
+        "longitude":  0.088952825
+    },
+    {
+        "ID":  "210",
+        "ServerName":  "SRV8495",
+        "Location":  "NEWBURY",
+        "pingstatus":  "1",
+        "latitude":  51.40031402,
+        "longitude":  -1.299298597
+    },
+    {
+        "ID":  "211",
+        "ServerName":  "SRV8497",
+        "Location":  "LEEDS ROUNDHAY",
+        "pingstatus":  "1",
+        "latitude":  53.82189644,
+        "longitude":  -1.511367916
+    },
+    {
+        "ID":  "212",
+        "ServerName":  "SRV8498",
+        "Location":  "NORWICH",
+        "pingstatus":  "1",
+        "latitude":  52.64942967,
+        "longitude":  1.258834153
+    },
+    {
+        "ID":  "213",
+        "ServerName":  "SRV8500",
+        "Location":  "WELWYN GC",
+        "pingstatus":  "1",
+        "latitude":  51.80319307,
+        "longitude":  -0.199985895
+    },
+    {
+        "ID":  "214",
+        "ServerName":  "SRV8501",
+        "Location":  "CARDIFF NEWPORT",
+        "pingstatus":  "1",
+        "latitude":  51.49823346,
+        "longitude":  -3.142222732
+    },
+    {
+        "ID":  "215",
+        "ServerName":  "SRV8510",
+        "Location":  "STAINES",
+        "pingstatus":  "1",
+        "latitude":  51.4338235,
+        "longitude":  -0.530250849
+    },
+    {
+        "ID":  "216",
+        "ServerName":  "SRV8520",
+        "Location":  "THURMASTON",
+        "pingstatus":  "1",
+        "latitude":  52.6837086,
+        "longitude":  -1.098530696
+    },
+    {
+        "ID":  "217",
+        "ServerName":  "SRV8565",
+        "Location":  "Bolton",
+        "pingstatus":  "1",
+        "latitude":  53.57303974,
+        "longitude":  -2.432244063
+    },
+    {
+        "ID":  "218",
+        "ServerName":  "SRV8566",
+        "Location":  "CHELMSLFORD",
+        "pingstatus":  "1",
+        "latitude":  51.73015002,
+        "longitude":  0.456785627
+    },
+    {
+        "ID":  "219",
+        "ServerName":  "SRV8714",
+        "Location":  "Sunderland",
+        "pingstatus":  "1",
+        "latitude":  54.89210949,
+        "longitude":  -1.451692649
+    },
+    {
+        "ID":  "220",
+        "ServerName":  "SRV8719",
+        "Location":  "SOUTHPORT K\u0026B",
+        "pingstatus":  "1",
+        "latitude":  53.63232097,
+        "longitude":  -2.967435469
+    },
+    {
+        "ID":  "221",
+        "ServerName":  "SRV8728",
+        "Location":  "MUSWELL HILL K\u0026B",
+        "pingstatus":  "1",
+        "latitude":  51.59019695,
+        "longitude":  -0.145995843
+    },
+    {
+        "ID":  "222",
+        "ServerName":  "SRV8549",
+        "Location":  "TORQUAY",
+        "pingstatus":  "1",
+        "latitude":  50.48510522,
+        "longitude":  -3.568051196
+    },
+    {
+        "ID":  "223",
+        "ServerName":  "SRV8571",
+        "Location":  "WIDNES",
+        "pingstatus":  "1",
+        "latitude":  53.3642015,
+        "longitude":  -2.721676548
+    },
+    {
+        "ID":  "224",
+        "ServerName":  "SRV8585",
+        "Location":  "LONG EATON",
+        "pingstatus":  "1",
+        "latitude":  52.90040639,
+        "longitude":  -1.262541535
+    },
+    {
+        "ID":  "225",
+        "ServerName":  "SRV8573",
+        "Location":  "DURHAM",
+        "pingstatus":  "1",
+        "latitude":  52.90040639,
+        "longitude":  -1.262541535
+    },
+    {
+        "ID":  "226",
+        "ServerName":  "SRV8587",
+        "Location":  "ABERDEEN",
+        "pingstatus":  "1",
+        "latitude":  -1.262541535,
+        "longitude":  -1.262541535
+    },
+    {
+        "ID":  "227",
+        "ServerName":  "SRV8275",
+        "Location":  "TROWBRIDGE",
+        "pingstatus":  "1",
+        "latitude":  51.33372187,
+        "longitude":  -2.202393262
+    },
+    {
+        "ID":  "228",
+        "ServerName":  "SRV8586",
+        "Location":  "LEAMINGTON SPA",
+        "pingstatus":  "1",
+        "latitude":  51.33372187,
+        "longitude":  -2.202393262
+    }
+]

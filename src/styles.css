@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One:wght@300;400;500;700;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+app-mapview + .footer, app-mapview > .footer, app-mapview ~ .footer {
+  display: none;
+}
+
+body {
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+}
+
+.mat-mdc-dialog-surface:has(.success-background), .mat-mdc-dialog-surface app-dialog .success-background 
+ {
+    background-color: #719461!important;; /* Change to your desired color */
+    background: #719461!important;
+    color: #e6edef!important;
+ }
+ .mat-mdc-dialog-surface:has(.amber-background), .mat-mdc-dialog-surface app-dialog .amber-background 
+ {
+    background-color: #FFBF00!important;; /* Change to your desired color */
+    background: #FFBF00!important;
+    color: #e6edef!important;
+ }
+
+ .mat-mdc-dialog-surface:has(.gray-background), .mat-mdc-dialog-surface app-dialog .gray-background 
+ {
+    background-color: #808080!important;; /* Change to your desired color */
+    background: #808080!important;
+    color: #e6edef!important;
+ }
+
+
+ .mat-table {
+  overflow-x: auto;
+}
+.mat-mdc-dialog-content > div{
+    color: #e6edef!important; /* Change to your desired text color */
+  }
+
+.mat-mdc-dialog-title
+{
+  color: #e6edef!important;
+  text-transform: uppercase;
+}
+  
+ .mat-mdc-dialog-surface:has(.fail-background), .mat-mdc-dialog-surface app-dialog .fail-background {
+    background-color: #EF5D5E!important;; /* Change to your desired color */
+    background: #EF5D5E!important;
+    color: #e6edef!important;
+
+  }
+
+  .close.mat-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px;
+    line-height: 14px;
+    min-width: auto;
+  }
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border-radius: .5rem;
+    background-color: #fff;
+    margin: 1.25rem 0 1.25rem 0;
+    box-shadow: 0 .25rem .5rem #e6edef;
+}
+
+.card .card-head {
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid #edf1f7;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.card .card-body {
+    padding: 1rem 1.5rem; 
+}
+

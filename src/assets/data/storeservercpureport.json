@@ -1,0 +1,1598 @@
+[
+    {
+        "SID":  "1",
+        "ServerName":  "SRV8037",
+        "serverstatus":  "1",
+        "Location":  "BRIDGWATER",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "2",
+        "ServerName":  "SRV8041",
+        "serverstatus":  "1",
+        "Location":  "WISBECH",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "3",
+        "ServerName":  "SRV8044",
+        "serverstatus":  "1",
+        "Location":  "Martlesham Heath",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "4",
+        "ServerName":  "SRV8048",
+        "serverstatus":  "1",
+        "Location":  "TAUNTON",
+        "currentCPUUsage":  "7"
+    },
+    {
+        "SID":  "5",
+        "ServerName":  "SRV8049",
+        "serverstatus":  "1",
+        "Location":  "FARNBOROUGH",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "6",
+        "ServerName":  "SRV8053",
+        "serverstatus":  "1",
+        "Location":  "HULL",
+        "currentCPUUsage":  "44"
+    },
+    {
+        "SID":  "7",
+        "ServerName":  "SRV8055",
+        "serverstatus":  "1",
+        "Location":  "BRADFORD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "8",
+        "ServerName":  "SRV8059",
+        "serverstatus":  "1",
+        "Location":  "WIMBLEDON",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "9",
+        "ServerName":  "SRV8061",
+        "serverstatus":  "1",
+        "Location":  "LINCOLN",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "10",
+        "ServerName":  "SRV8062",
+        "serverstatus":  "1",
+        "Location":  "DUNSTABLE",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "11",
+        "ServerName":  "SRV8064",
+        "serverstatus":  "1",
+        "Location":  "SCUNTHORPE",
+        "currentCPUUsage":  "23"
+    },
+    {
+        "SID":  "12",
+        "ServerName":  "SRV8065",
+        "serverstatus":  "1",
+        "Location":  "ROTHERHAM",
+        "currentCPUUsage":  "44"
+    },
+    {
+        "SID":  "13",
+        "ServerName":  "SRV8066",
+        "serverstatus":  "1",
+        "Location":  "DEWSBURY",
+        "currentCPUUsage":  "53"
+    },
+    {
+        "SID":  "14",
+        "ServerName":  "SRV8067",
+        "serverstatus":  "1",
+        "Location":  "SUTTON IN ASHFIELD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "15",
+        "ServerName":  "SRV8071",
+        "serverstatus":  "1",
+        "Location":  "NOTTINGHAM CENTRAL",
+        "currentCPUUsage":  "25"
+    },
+    {
+        "SID":  "16",
+        "ServerName":  "SRV8072",
+        "serverstatus":  "1",
+        "Location":  "CRICKLEWOOD",
+        "currentCPUUsage":  "4"
+    },
+    {
+        "SID":  "17",
+        "ServerName":  "SRV8074",
+        "serverstatus":  "1",
+        "Location":  "CHELTENHAM",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "18",
+        "ServerName":  "SRV8075",
+        "serverstatus":  "1",
+        "Location":  "COVENTRY",
+        "currentCPUUsage":  "32"
+    },
+    {
+        "SID":  "19",
+        "ServerName":  "SRV8077",
+        "serverstatus":  "1",
+        "Location":  "BRISTOL",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "20",
+        "ServerName":  "SRV8078",
+        "serverstatus":  "1",
+        "Location":  "RUISLIP",
+        "currentCPUUsage":  "14"
+    },
+    {
+        "SID":  "21",
+        "ServerName":  "SRV8079",
+        "serverstatus":  "1",
+        "Location":  "DERBY",
+        "currentCPUUsage":  "5"
+    },
+    {
+        "SID":  "22",
+        "ServerName":  "SRV8080",
+        "serverstatus":  "1",
+        "Location":  "WOKING",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "23",
+        "ServerName":  "SRV8081",
+        "serverstatus":  "1",
+        "Location":  "STOCKPORT",
+        "currentCPUUsage":  "4"
+    },
+    {
+        "SID":  "24",
+        "ServerName":  "SRV8082",
+        "serverstatus":  "1",
+        "Location":  "RAYLEIGH",
+        "currentCPUUsage":  "5"
+    },
+    {
+        "SID":  "25",
+        "ServerName":  "SRV8083",
+        "serverstatus":  "1",
+        "Location":  "CATFORD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "26",
+        "ServerName":  "SRV8088",
+        "serverstatus":  "1",
+        "Location":  "PUDSEY",
+        "currentCPUUsage":  "16"
+    },
+    {
+        "SID":  "27",
+        "ServerName":  "SRV8090",
+        "serverstatus":  "1",
+        "Location":  "ASHFORD",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "28",
+        "ServerName":  "SRV8091",
+        "serverstatus":  "1",
+        "Location":  "TOTTENHAM",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "29",
+        "ServerName":  "SRV8093",
+        "serverstatus":  "1",
+        "Location":  "DARTFORD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "30",
+        "ServerName":  "SRV8096",
+        "serverstatus":  "1",
+        "Location":  "HEMEL HEMPSTEAD",
+        "currentCPUUsage":  "23"
+    },
+    {
+        "SID":  "31",
+        "ServerName":  "SRV8208",
+        "serverstatus":  "1",
+        "Location":  "CANNING TOWN",
+        "currentCPUUsage":  "51"
+    },
+    {
+        "SID":  "32",
+        "ServerName":  "SRV8209",
+        "serverstatus":  "1",
+        "Location":  "PETERBOROUGH",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "33",
+        "ServerName":  "SRV8214",
+        "serverstatus":  "1",
+        "Location":  "MERTON",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "34",
+        "ServerName":  "SRV8215",
+        "serverstatus":  "1",
+        "Location":  "CROYDON",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "35",
+        "ServerName":  "SRV8216",
+        "serverstatus":  "1",
+        "Location":  "HANDSWORTH",
+        "currentCPUUsage":  "17"
+    },
+    {
+        "SID":  "36",
+        "ServerName":  "SRV8220",
+        "serverstatus":  "1",
+        "Location":  "REDDITCH",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "37",
+        "ServerName":  "SRV8221",
+        "serverstatus":  "1",
+        "Location":  "WORTHING",
+        "currentCPUUsage":  "80"
+    },
+    {
+        "SID":  "38",
+        "ServerName":  "SRV8222",
+        "serverstatus":  "1",
+        "Location":  "HAYES",
+        "currentCPUUsage":  "27"
+    },
+    {
+        "SID":  "39",
+        "ServerName":  "SRV8225",
+        "serverstatus":  "1",
+        "Location":  "MINWORTH",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "40",
+        "ServerName":  "SRV8226",
+        "serverstatus":  "1",
+        "Location":  "STOCKTON",
+        "currentCPUUsage":  "9"
+    },
+    {
+        "SID":  "41",
+        "ServerName":  "SRV8227",
+        "serverstatus":  "1",
+        "Location":  "WATERLOOVILLE",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "42",
+        "ServerName":  "SRV8228",
+        "serverstatus":  "1",
+        "Location":  "FAREHAM",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "43",
+        "ServerName":  "SRV8229",
+        "serverstatus":  "1",
+        "Location":  "WALLSEND",
+        "currentCPUUsage":  "28"
+    },
+    {
+        "SID":  "44",
+        "ServerName":  "SRV8230",
+        "serverstatus":  "1",
+        "Location":  "BRIGHTON",
+        "currentCPUUsage":  "5"
+    },
+    {
+        "SID":  "45",
+        "ServerName":  "SRV8231",
+        "serverstatus":  "1",
+        "Location":  "STOKE",
+        "currentCPUUsage":  "18"
+    },
+    {
+        "SID":  "46",
+        "ServerName":  "SRV8233",
+        "serverstatus":  "1",
+        "Location":  "CHATHAM",
+        "currentCPUUsage":  "25"
+    },
+    {
+        "SID":  "47",
+        "ServerName":  "SRV8234",
+        "serverstatus":  "1",
+        "Location":  "OXFORD",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "48",
+        "ServerName":  "SRV8235",
+        "serverstatus":  "1",
+        "Location":  "HALL GREEN",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "49",
+        "ServerName":  "SRV8236",
+        "serverstatus":  "1",
+        "Location":  "CLIFTON",
+        "currentCPUUsage":  "25"
+    },
+    {
+        "SID":  "50",
+        "ServerName":  "SRV8237",
+        "serverstatus":  "1",
+        "Location":  "HANGER LANE",
+        "currentCPUUsage":  "4"
+    },
+    {
+        "SID":  "51",
+        "ServerName":  "SRV8238",
+        "serverstatus":  "1",
+        "Location":  "ST. ALBANS",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "52",
+        "ServerName":  "SRV8239",
+        "serverstatus":  "1",
+        "Location":  "DONCASTER",
+        "currentCPUUsage":  "38"
+    },
+    {
+        "SID":  "53",
+        "ServerName":  "SRV8240",
+        "serverstatus":  "1",
+        "Location":  "DORKING",
+        "currentCPUUsage":  "29"
+    },
+    {
+        "SID":  "54",
+        "ServerName":  "SRV8243",
+        "serverstatus":  "1",
+        "Location":  "WALTHAM CROSS",
+        "currentCPUUsage":  "4"
+    },
+    {
+        "SID":  "55",
+        "ServerName":  "SRV8246",
+        "serverstatus":  "1",
+        "Location":  "BOURNEMOUTH",
+        "currentCPUUsage":  "8"
+    },
+    {
+        "SID":  "56",
+        "ServerName":  "SRV8247",
+        "serverstatus":  "1",
+        "Location":  "BARNSLEY",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "57",
+        "ServerName":  "SRV8248",
+        "serverstatus":  "1",
+        "Location":  "PERTH",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "58",
+        "ServerName":  "SRV8250",
+        "serverstatus":  "1",
+        "Location":  "CREWE",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "59",
+        "ServerName":  "SRV8251",
+        "serverstatus":  "1",
+        "Location":  "LANCASTER",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "60",
+        "ServerName":  "SRV8252",
+        "serverstatus":  "1",
+        "Location":  "DUDLEY",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "61",
+        "ServerName":  "SRV8253",
+        "serverstatus":  "1",
+        "Location":  "CARLISLE",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "62",
+        "ServerName":  "SRV8256",
+        "serverstatus":  "1",
+        "Location":  "BARNSTAPLE",
+        "currentCPUUsage":  "35"
+    },
+    {
+        "SID":  "63",
+        "ServerName":  "SRV8257",
+        "serverstatus":  "1",
+        "Location":  "NOTTINGHAM NORTH",
+        "currentCPUUsage":  "43"
+    },
+    {
+        "SID":  "64",
+        "ServerName":  "SRV8258",
+        "serverstatus":  "1",
+        "Location":  "DUNDEE",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "65",
+        "ServerName":  "SRV8260",
+        "serverstatus":  "1",
+        "Location":  "HANWORTH",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "66",
+        "ServerName":  "SRV8261",
+        "serverstatus":  "1",
+        "Location":  "CANNOCK",
+        "currentCPUUsage":  "7"
+    },
+    {
+        "SID":  "67",
+        "ServerName":  "SRV8262",
+        "serverstatus":  "1",
+        "Location":  "CHESTER",
+        "currentCPUUsage":  "4"
+    },
+    {
+        "SID":  "68",
+        "ServerName":  "SRV8263",
+        "serverstatus":  "1",
+        "Location":  "HUDDERSFIELD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "69",
+        "ServerName":  "SRV8264",
+        "serverstatus":  "1",
+        "Location":  "BEDFORD",
+        "currentCPUUsage":  "45"
+    },
+    {
+        "SID":  "70",
+        "ServerName":  "SRV8265",
+        "serverstatus":  "1",
+        "Location":  "EASTBOURNE",
+        "currentCPUUsage":  "15"
+    },
+    {
+        "SID":  "71",
+        "ServerName":  "SRV8267",
+        "serverstatus":  "1",
+        "Location":  "PONTEFRACT",
+        "currentCPUUsage":  "10"
+    },
+    {
+        "SID":  "72",
+        "ServerName":  "SRV8268",
+        "serverstatus":  "1",
+        "Location":  "SHREWSBURY",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "73",
+        "ServerName":  "SRV8270",
+        "serverstatus":  "1",
+        "Location":  "LETCHWORTH",
+        "currentCPUUsage":  "4"
+    },
+    {
+        "SID":  "74",
+        "ServerName":  "SRV8271",
+        "serverstatus":  "1",
+        "Location":  "BRIDGEND",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "75",
+        "ServerName":  "SRV8273",
+        "serverstatus":  "1",
+        "Location":  "PRESTON",
+        "currentCPUUsage":  "50"
+    },
+    {
+        "SID":  "76",
+        "ServerName":  "SRV8274",
+        "serverstatus":  "1",
+        "Location":  "YEOVIL",
+        "currentCPUUsage":  "12"
+    },
+    {
+        "SID":  "77",
+        "ServerName":  "SRV8276",
+        "serverstatus":  "1",
+        "Location":  "AINTREE",
+        "currentCPUUsage":  "5"
+    },
+    {
+        "SID":  "78",
+        "ServerName":  "SRV8277",
+        "serverstatus":  "1",
+        "Location":  "BANBURY",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "79",
+        "ServerName":  "SRV8279",
+        "serverstatus":  "1",
+        "Location":  "BLETCHLEY",
+        "currentCPUUsage":  "6"
+    },
+    {
+        "SID":  "80",
+        "ServerName":  "SRV8281",
+        "serverstatus":  "1",
+        "Location":  "BLACKHEATH",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "81",
+        "ServerName":  "SRV8282",
+        "serverstatus":  "1",
+        "Location":  "STIRLING",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "82",
+        "ServerName":  "SRV8283",
+        "serverstatus":  "1",
+        "Location":  "CHESTERFIELD",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "83",
+        "ServerName":  "SRV8284",
+        "serverstatus":  "1",
+        "Location":  "BURY",
+        "currentCPUUsage":  "13"
+    },
+    {
+        "SID":  "84",
+        "ServerName":  "SRV8287",
+        "serverstatus":  "1",
+        "Location":  "COLCHESTER",
+        "currentCPUUsage":  "5"
+    },
+    {
+        "SID":  "85",
+        "ServerName":  "SRV8290",
+        "serverstatus":  "1",
+        "Location":  "NEWPORT",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "86",
+        "ServerName":  "SRV8291",
+        "serverstatus":  "1",
+        "Location":  "BAGULEY",
+        "currentCPUUsage":  "27"
+    },
+    {
+        "SID":  "87",
+        "ServerName":  "SRV8292",
+        "serverstatus":  "1",
+        "Location":  "PLYMOUTH",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "88",
+        "ServerName":  "SRV8293",
+        "serverstatus":  "1",
+        "Location":  "NORTHAMPTON",
+        "currentCPUUsage":  "5"
+    },
+    {
+        "SID":  "89",
+        "ServerName":  "SRV8296",
+        "serverstatus":  "1",
+        "Location":  "BLACKPOOL",
+        "currentCPUUsage":  "89"
+    },
+    {
+        "SID":  "90",
+        "ServerName":  "SRV8297",
+        "serverstatus":  "1",
+        "Location":  "BARKING EXTRA",
+        "currentCPUUsage":  "49"
+    },
+    {
+        "SID":  "91",
+        "ServerName":  "SRV8298",
+        "serverstatus":  "1",
+        "Location":  "BIRKENHEAD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "92",
+        "ServerName":  "SRV8299",
+        "serverstatus":  "1",
+        "Location":  "STAFFORD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "93",
+        "ServerName":  "SRV8301",
+        "serverstatus":  "1",
+        "Location":  "WARRINGTON",
+        "currentCPUUsage":  "10"
+    },
+    {
+        "SID":  "94",
+        "ServerName":  "SRV8303",
+        "serverstatus":  "1",
+        "Location":  "HALIFAX",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "95",
+        "ServerName":  "SRV8308",
+        "serverstatus":  "1",
+        "Location":  "WREXHAM",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "96",
+        "ServerName":  "SRV8309",
+        "serverstatus":  "1",
+        "Location":  "EPSOM",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "97",
+        "ServerName":  "SRV8310",
+        "serverstatus":  "1",
+        "Location":  "ERITH",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "98",
+        "ServerName":  "SRV8312",
+        "serverstatus":  "1",
+        "Location":  "BRACKNELL",
+        "currentCPUUsage":  "27"
+    },
+    {
+        "SID":  "99",
+        "ServerName":  "SRV8313",
+        "serverstatus":  "1",
+        "Location":  "HIGH WYCOMBE",
+        "currentCPUUsage":  "22"
+    },
+    {
+        "SID":  "100",
+        "ServerName":  "SRV8314",
+        "serverstatus":  "1",
+        "Location":  "MAIDSTONE EXTRA",
+        "currentCPUUsage":  "17"
+    },
+    {
+        "SID":  "101",
+        "ServerName":  "SRV8316",
+        "serverstatus":  "1",
+        "Location":  "AYLESBURY EXTRA",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "102",
+        "ServerName":  "SRV8317",
+        "serverstatus":  "1",
+        "Location":  "LOWESTOFT",
+        "currentCPUUsage":  "25"
+    },
+    {
+        "SID":  "103",
+        "ServerName":  "SRV8318",
+        "serverstatus":  "1",
+        "Location":  "BICESTER",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "104",
+        "ServerName":  "SRV8319",
+        "serverstatus":  "1",
+        "Location":  "BEXHILL",
+        "currentCPUUsage":  "9"
+    },
+    {
+        "SID":  "105",
+        "ServerName":  "SRV8320",
+        "serverstatus":  "1",
+        "Location":  "SITTINGBOURNE",
+        "currentCPUUsage":  "9"
+    },
+    {
+        "SID":  "106",
+        "ServerName":  "SRV8321",
+        "serverstatus":  "1",
+        "Location":  "ANDOVER",
+        "currentCPUUsage":  "12"
+    },
+    {
+        "SID":  "107",
+        "ServerName":  "SRV8322",
+        "serverstatus":  "1",
+        "Location":  "EDMONTON EXTRA",
+        "currentCPUUsage":  "28"
+    },
+    {
+        "SID":  "108",
+        "ServerName":  "SRV8323",
+        "serverstatus":  "1",
+        "Location":  "SWANSEA EXTRA",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "109",
+        "ServerName":  "SRV8326",
+        "serverstatus":  "1",
+        "Location":  "KETTERING EXTRA",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "110",
+        "ServerName":  "SRV8327",
+        "serverstatus":  "1",
+        "Location":  "WAKEFIELD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "111",
+        "ServerName":  "SRV8328",
+        "serverstatus":  "1",
+        "Location":  "SOUTHAMPTON EXTRA",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "112",
+        "ServerName":  "SRV8329",
+        "serverstatus":  "1",
+        "Location":  "WESTON SUPER MARE",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "113",
+        "ServerName":  "SRV8331",
+        "serverstatus":  "1",
+        "Location":  "TAMWORTH",
+        "currentCPUUsage":  "46"
+    },
+    {
+        "SID":  "114",
+        "ServerName":  "SRV8332",
+        "serverstatus":  "1",
+        "Location":  "BASINGSTOKE",
+        "currentCPUUsage":  "14"
+    },
+    {
+        "SID":  "115",
+        "ServerName":  "SRV8334",
+        "serverstatus":  "1",
+        "Location":  "PERRY BAR EXTRA",
+        "currentCPUUsage":  "24"
+    },
+    {
+        "SID":  "116",
+        "ServerName":  "SRV8336",
+        "serverstatus":  "1",
+        "Location":  "EXETER",
+        "currentCPUUsage":  "10"
+    },
+    {
+        "SID":  "117",
+        "ServerName":  "SRV8337",
+        "serverstatus":  "1",
+        "Location":  "HARLOW EXTRA",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "118",
+        "ServerName":  "SRV8338",
+        "serverstatus":  "1",
+        "Location":  "HAVANT EXTRA",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "119",
+        "ServerName":  "SRV8340",
+        "serverstatus":  "1",
+        "Location":  "SLOUGH",
+        "currentCPUUsage":  "26"
+    },
+    {
+        "SID":  "120",
+        "ServerName":  "SRV8342",
+        "serverstatus":  "1",
+        "Location":  "SWINDON EXTRA",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "121",
+        "ServerName":  "SRV8343",
+        "serverstatus":  "1",
+        "Location":  "TELFORD",
+        "currentCPUUsage":  "61"
+    },
+    {
+        "SID":  "122",
+        "ServerName":  "SRV8344",
+        "serverstatus":  "1",
+        "Location":  "BROADSTAIRS EXTRA",
+        "currentCPUUsage":  "52"
+    },
+    {
+        "SID":  "123",
+        "ServerName":  "SRV8347",
+        "serverstatus":  "1",
+        "Location":  "CAERPHILLY",
+        "currentCPUUsage":  "14"
+    },
+    {
+        "SID":  "124",
+        "ServerName":  "SRV8348",
+        "serverstatus":  "1",
+        "Location":  "NEWCASTLE EXTRA",
+        "currentCPUUsage":  "28"
+    },
+    {
+        "SID":  "125",
+        "ServerName":  "SRV8349",
+        "serverstatus":  "1",
+        "Location":  "CHIPPENHAM",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "126",
+        "ServerName":  "SRV8350",
+        "serverstatus":  "1",
+        "Location":  "IPSWICH",
+        "currentCPUUsage":  "4"
+    },
+    {
+        "SID":  "127",
+        "ServerName":  "SRV8351",
+        "serverstatus":  "1",
+        "Location":  "Cirencester",
+        "currentCPUUsage":  "25"
+    },
+    {
+        "SID":  "128",
+        "ServerName":  "SRV8352",
+        "serverstatus":  "1",
+        "Location":  "GLASGOW",
+        "currentCPUUsage":  "25"
+    },
+    {
+        "SID":  "129",
+        "ServerName":  "SRV8353",
+        "serverstatus":  "1",
+        "Location":  "HAVERFORDWEST",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "130",
+        "ServerName":  "SRV8354",
+        "serverstatus":  "1",
+        "Location":  "EDINBURGH EXTRA",
+        "currentCPUUsage":  "5"
+    },
+    {
+        "SID":  "131",
+        "ServerName":  "SRV8355",
+        "serverstatus":  "1",
+        "Location":  "BOSTON",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "132",
+        "ServerName":  "SRV8357",
+        "serverstatus":  "1",
+        "Location":  "THETFORD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "133",
+        "ServerName":  "SRV8359",
+        "serverstatus":  "1",
+        "Location":  "LICHFIELD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "134",
+        "ServerName":  "SRV8360",
+        "serverstatus":  "1",
+        "Location":  "ASHBY DE LA ZOUCH",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "135",
+        "ServerName":  "SRV8361",
+        "serverstatus":  "1",
+        "Location":  "NEW MARKET",
+        "currentCPUUsage":  "47"
+    },
+    {
+        "SID":  "136",
+        "ServerName":  "SRV8364",
+        "serverstatus":  "1",
+        "Location":  "BULWELL",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "137",
+        "ServerName":  "SRV8365",
+        "serverstatus":  "1",
+        "Location":  "DUMFRIES",
+        "currentCPUUsage":  "95"
+    },
+    {
+        "SID":  "138",
+        "ServerName":  "SRV8366",
+        "serverstatus":  "1",
+        "Location":  "GLOSSOP",
+        "currentCPUUsage":  "10"
+    },
+    {
+        "SID":  "139",
+        "ServerName":  "SRV8367",
+        "serverstatus":  "1",
+        "Location":  "HEREFORD",
+        "currentCPUUsage":  "13"
+    },
+    {
+        "SID":  "140",
+        "ServerName":  "SRV8370",
+        "serverstatus":  "1",
+        "Location":  "PLUMSTEAD",
+        "currentCPUUsage":  "13"
+    },
+    {
+        "SID":  "141",
+        "ServerName":  "SRV8371",
+        "serverstatus":  "1",
+        "Location":  "READING",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "142",
+        "ServerName":  "SRV8372",
+        "serverstatus":  "1",
+        "Location":  "CHADWELL HEATH",
+        "currentCPUUsage":  "76"
+    },
+    {
+        "SID":  "143",
+        "ServerName":  "SRV8374",
+        "serverstatus":  "1",
+        "Location":  "OLDHAM",
+        "currentCPUUsage":  "30"
+    },
+    {
+        "SID":  "144",
+        "ServerName":  "SRV8377",
+        "serverstatus":  "1",
+        "Location":  "GLOUCESTER",
+        "currentCPUUsage":  "28"
+    },
+    {
+        "SID":  "145",
+        "ServerName":  "SRV8378",
+        "serverstatus":  "1",
+        "Location":  "CORBY",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "146",
+        "ServerName":  "SRV8381",
+        "serverstatus":  "1",
+        "Location":  "BRAINTREE",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "147",
+        "ServerName":  "SRV8382",
+        "serverstatus":  "1",
+        "Location":  "EAST GRINSTEAD",
+        "currentCPUUsage":  "17"
+    },
+    {
+        "SID":  "148",
+        "ServerName":  "SRV8385",
+        "serverstatus":  "1",
+        "Location":  "GUILDFORD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "149",
+        "ServerName":  "SRV8388",
+        "serverstatus":  "1",
+        "Location":  "CROYDON COLO",
+        "currentCPUUsage":  "25"
+    },
+    {
+        "SID":  "150",
+        "ServerName":  "SRV8390",
+        "serverstatus":  "1",
+        "Location":  "CRAWLEY",
+        "currentCPUUsage":  "80"
+    },
+    {
+        "SID":  "151",
+        "ServerName":  "SRV8393",
+        "serverstatus":  "1",
+        "Location":  "WIGSTON",
+        "currentCPUUsage":  "12"
+    },
+    {
+        "SID":  "152",
+        "ServerName":  "SRV8397",
+        "serverstatus":  "1",
+        "Location":  "WATFORD",
+        "currentCPUUsage":  "31"
+    },
+    {
+        "SID":  "153",
+        "ServerName":  "SRV8398",
+        "serverstatus":  "1",
+        "Location":  "LUTON",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "154",
+        "ServerName":  "SRV8399",
+        "serverstatus":  "1",
+        "Location":  "NORTHALLERTON",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "155",
+        "ServerName":  "SRV8404",
+        "serverstatus":  "1",
+        "Location":  "BURTON SOUTH",
+        "currentCPUUsage":  "28"
+    },
+    {
+        "SID":  "156",
+        "ServerName":  "SRV8406",
+        "serverstatus":  "1",
+        "Location":  "WORCESTER",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "157",
+        "ServerName":  "SRV8407",
+        "serverstatus":  "1",
+        "Location":  "TRURO",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "158",
+        "ServerName":  "SRV8409",
+        "serverstatus":  "1",
+        "Location":  "BRENTWOOD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "159",
+        "ServerName":  "SRV8410",
+        "serverstatus":  "1",
+        "Location":  "GRAVESEND",
+        "currentCPUUsage":  "30"
+    },
+    {
+        "SID":  "160",
+        "ServerName":  "SRV8411",
+        "serverstatus":  "1",
+        "Location":  "SEVENOAKS",
+        "currentCPUUsage":  "32"
+    },
+    {
+        "SID":  "161",
+        "ServerName":  "SRV8412",
+        "serverstatus":  "1",
+        "Location":  "SHEFFIELD NORTH",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "162",
+        "ServerName":  "SRV8414",
+        "serverstatus":  "1",
+        "Location":  "EALING",
+        "currentCPUUsage":  "4"
+    },
+    {
+        "SID":  "163",
+        "ServerName":  "SRV8415",
+        "serverstatus":  "1",
+        "Location":  "MACCLESFIELD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "164",
+        "ServerName":  "SRV8416",
+        "serverstatus":  "1",
+        "Location":  "STEVENAGE",
+        "currentCPUUsage":  "8"
+    },
+    {
+        "SID":  "165",
+        "ServerName":  "SRV8417",
+        "serverstatus":  "1",
+        "Location":  "STIRCHLEY",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "166",
+        "ServerName":  "SRV8428",
+        "serverstatus":  "1",
+        "Location":  "KINGS LYNN",
+        "currentCPUUsage":  "13"
+    },
+    {
+        "SID":  "167",
+        "ServerName":  "SRV8429",
+        "serverstatus":  "1",
+        "Location":  "MILTON KEYNES",
+        "currentCPUUsage":  "5"
+    },
+    {
+        "SID":  "168",
+        "ServerName":  "SRV8430",
+        "serverstatus":  "1",
+        "Location":  "SALISBURY",
+        "currentCPUUsage":  "5"
+    },
+    {
+        "SID":  "169",
+        "ServerName":  "SRV8431",
+        "serverstatus":  "1",
+        "Location":  "CHORLEY",
+        "currentCPUUsage":  "27"
+    },
+    {
+        "SID":  "170",
+        "ServerName":  "SRV8434",
+        "serverstatus":  "1",
+        "Location":  "WORKSOP",
+        "currentCPUUsage":  "22"
+    },
+    {
+        "SID":  "171",
+        "ServerName":  "SRV8436",
+        "serverstatus":  "1",
+        "Location":  "HALESOWEN",
+        "currentCPUUsage":  "6"
+    },
+    {
+        "SID":  "172",
+        "ServerName":  "SRV8437",
+        "serverstatus":  "1",
+        "Location":  "WOLVERHAMPTON",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "173",
+        "ServerName":  "SRV8441",
+        "serverstatus":  "1",
+        "Location":  "SOUTH SHIELDS",
+        "currentCPUUsage":  "30"
+    },
+    {
+        "SID":  "174",
+        "ServerName":  "SRV8443",
+        "serverstatus":  "1",
+        "Location":  "GRANTHAM",
+        "currentCPUUsage":  "23"
+    },
+    {
+        "SID":  "175",
+        "ServerName":  "SRV8444",
+        "serverstatus":  "1",
+        "Location":  "LITTLEHAMPTON",
+        "currentCPUUsage":  "26"
+    },
+    {
+        "SID":  "176",
+        "ServerName":  "SRV8448",
+        "serverstatus":  "1",
+        "Location":  "BURGESS HILL",
+        "currentCPUUsage":  "4"
+    },
+    {
+        "SID":  "177",
+        "ServerName":  "SRV8449",
+        "serverstatus":  "1",
+        "Location":  "MALDON",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "178",
+        "ServerName":  "SRV8451",
+        "serverstatus":  "1",
+        "Location":  "HAILSHAM",
+        "currentCPUUsage":  "18"
+    },
+    {
+        "SID":  "179",
+        "ServerName":  "SRV8452",
+        "serverstatus":  "1",
+        "Location":  "NUNEATON",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "180",
+        "ServerName":  "SRV8453",
+        "serverstatus":  "1",
+        "Location":  "HERTFORD",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "181",
+        "ServerName":  "SRV8454",
+        "serverstatus":  "1",
+        "Location":  "BEVERLEY",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "182",
+        "ServerName":  "SRV8455",
+        "serverstatus":  "1",
+        "Location":  "TUNSTALL",
+        "currentCPUUsage":  "8"
+    },
+    {
+        "SID":  "183",
+        "ServerName":  "SRV8456",
+        "serverstatus":  "1",
+        "Location":  "CHESHAM",
+        "currentCPUUsage":  "5"
+    },
+    {
+        "SID":  "184",
+        "ServerName":  "SRV8457",
+        "serverstatus":  "1",
+        "Location":  "BISHOPS STORTFORD",
+        "currentCPUUsage":  "5"
+    },
+    {
+        "SID":  "185",
+        "ServerName":  "SRV8458",
+        "serverstatus":  "1",
+        "Location":  "HINCKLEY",
+        "currentCPUUsage":  "26"
+    },
+    {
+        "SID":  "186",
+        "ServerName":  "SRV8459",
+        "serverstatus":  "1",
+        "Location":  "WINSFORD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "187",
+        "ServerName":  "SRV8460",
+        "serverstatus":  "1",
+        "Location":  "RUSHDEN",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "188",
+        "ServerName":  "SRV8461",
+        "serverstatus":  "1",
+        "Location":  "WEST WICKHAM",
+        "currentCPUUsage":  "32"
+    },
+    {
+        "SID":  "189",
+        "ServerName":  "SRV8464",
+        "serverstatus":  "1",
+        "Location":  "HUNTINGDON",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "190",
+        "ServerName":  "SRV8465",
+        "serverstatus":  "1",
+        "Location":  "WINNERSH",
+        "currentCPUUsage":  "26"
+    },
+    {
+        "SID":  "191",
+        "ServerName":  "SRV8467",
+        "serverstatus":  "1",
+        "Location":  "BOREHAMWOOD",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "192",
+        "ServerName":  "SRV8468",
+        "serverstatus":  "1",
+        "Location":  "SHEFFIELD CRYSTAL PEAKS",
+        "currentCPUUsage":  "29"
+    },
+    {
+        "SID":  "193",
+        "ServerName":  "SRV8469",
+        "serverstatus":  "1",
+        "Location":  "GRIMSBY",
+        "currentCPUUsage":  "4"
+    },
+    {
+        "SID":  "194",
+        "ServerName":  "SRV8471",
+        "serverstatus":  "1",
+        "Location":  "YORK",
+        "currentCPUUsage":  "8"
+    },
+    {
+        "SID":  "195",
+        "ServerName":  "SRV8473",
+        "serverstatus":  "1",
+        "Location":  "HENDON",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "196",
+        "ServerName":  "SRV8474",
+        "serverstatus":  "1",
+        "Location":  "HEDGE END",
+        "currentCPUUsage":  "32"
+    },
+    {
+        "SID":  "197",
+        "ServerName":  "SRV8475",
+        "serverstatus":  "1",
+        "Location":  "ALTON",
+        "currentCPUUsage":  "9"
+    },
+    {
+        "SID":  "198",
+        "ServerName":  "SRV8479",
+        "serverstatus":  "1",
+        "Location":  "FOLKESTONE",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "199",
+        "ServerName":  "SRV8480",
+        "serverstatus":  "1",
+        "Location":  "ANERLEY",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "200",
+        "ServerName":  "SRV8481",
+        "serverstatus":  "1",
+        "Location":  "Christchurch",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "201",
+        "ServerName":  "SRV8482",
+        "serverstatus":  "1",
+        "Location":  "Sutton",
+        "currentCPUUsage":  "52"
+    },
+    {
+        "SID":  "202",
+        "ServerName":  "SRV8483",
+        "serverstatus":  "1",
+        "Location":  "Shipley",
+        "currentCPUUsage":  "1"
+    },
+    {
+        "SID":  "203",
+        "ServerName":  "SRV8484",
+        "serverstatus":  "1",
+        "Location":  "TUNBRIDGE WELLS",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "204",
+        "ServerName":  "SRV8485",
+        "serverstatus":  "1",
+        "Location":  "Winchester",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "205",
+        "ServerName":  "SRV8486",
+        "serverstatus":  "1",
+        "Location":  "MIDSOMER NORTON",
+        "currentCPUUsage":  "9"
+    },
+    {
+        "SID":  "206",
+        "ServerName":  "SRV8488",
+        "serverstatus":  "1",
+        "Location":  "RUGBY",
+        "currentCPUUsage":  "26"
+    },
+    {
+        "SID":  "207",
+        "ServerName":  "SRV8492",
+        "serverstatus":  "1",
+        "Location":  "BOGNOR REGIS",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "208",
+        "ServerName":  "SRV8493",
+        "serverstatus":  "1",
+        "Location":  "STOWMARKET",
+        "currentCPUUsage":  "22"
+    },
+    {
+        "SID":  "209",
+        "ServerName":  "SRV8494",
+        "serverstatus":  "1",
+        "Location":  "LOUGHTON",
+        "currentCPUUsage":  "17"
+    },
+    {
+        "SID":  "210",
+        "ServerName":  "SRV8495",
+        "serverstatus":  "1",
+        "Location":  "NEWBURY",
+        "currentCPUUsage":  "8"
+    },
+    {
+        "SID":  "211",
+        "ServerName":  "SRV8497",
+        "serverstatus":  "1",
+        "Location":  "LEEDS ROUNDHAY",
+        "currentCPUUsage":  "30"
+    },
+    {
+        "SID":  "212",
+        "ServerName":  "SRV8498",
+        "serverstatus":  "1",
+        "Location":  "NORWICH",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "213",
+        "ServerName":  "SRV8500",
+        "serverstatus":  "1",
+        "Location":  "WELWYN GC",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "214",
+        "ServerName":  "SRV8501",
+        "serverstatus":  "1",
+        "Location":  "CARDIFF NEWPORT",
+        "currentCPUUsage":  "2"
+    },
+    {
+        "SID":  "215",
+        "ServerName":  "SRV8510",
+        "serverstatus":  "1",
+        "Location":  "STAINES",
+        "currentCPUUsage":  "8"
+    },
+    {
+        "SID":  "216",
+        "ServerName":  "SRV8520",
+        "serverstatus":  "1",
+        "Location":  "THURMASTON",
+        "currentCPUUsage":  "3"
+    },
+    {
+        "SID":  "217",
+        "ServerName":  "SRV8565",
+        "serverstatus":  "1",
+        "Location":  "Bolton",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "218",
+        "ServerName":  "SRV8566",
+        "serverstatus":  "1",
+        "Location":  "CHELMSLFORD",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "219",
+        "ServerName":  "SRV8714",
+        "serverstatus":  "1",
+        "Location":  "Sunderland",
+        "currentCPUUsage":  "4"
+    },
+    {
+        "SID":  "220",
+        "ServerName":  "SRV8719",
+        "serverstatus":  "1",
+        "Location":  "SOUTHPORT K\u0026B",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "221",
+        "ServerName":  "SRV8728",
+        "serverstatus":  "1",
+        "Location":  "MUSWELL HILL K\u0026B",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "222",
+        "ServerName":  "SRV8549",
+        "serverstatus":  "1",
+        "Location":  "TORQUAY",
+        "currentCPUUsage":  "0"
+    },
+    {
+        "SID":  "223",
+        "ServerName":  "SRV8571",
+        "serverstatus":  "1",
+        "Location":  "WIDNES",
+        "currentCPUUsage":  "25"
+    },
+    {
+        "SID":  "224",
+        "ServerName":  "SRV8585",
+        "serverstatus":  "1",
+        "Location":  "LONG EATON",
+        "currentCPUUsage":  "4"
+    },
+    {
+        "SID":  "225",
+        "ServerName":  "SRV8573",
+        "serverstatus":  "1",
+        "Location":  "DURHAM",
+        "currentCPUUsage":  "13"
+    },
+    {
+        "SID":  "226",
+        "ServerName":  "SRV8587",
+        "serverstatus":  "1",
+        "Location":  "ABERDEEN",
+        "currentCPUUsage":  "11"
+    },
+    {
+        "SID":  "227",
+        "ServerName":  "SRV8275",
+        "serverstatus":  "1",
+        "Location":  "TROWBRIDGE",
+        "currentCPUUsage":  "13"
+    },
+    {
+        "SID":  "228",
+        "ServerName":  "SRV8586",
+        "serverstatus":  "1",
+        "Location":  "LEAMINGTON SPA",
+        "currentCPUUsage":  "0"
+    }
+]

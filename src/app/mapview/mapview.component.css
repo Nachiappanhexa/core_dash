@@ -1,0 +1,28 @@
+::ng-deep app-mapview #chartdiv
+{
+    width: 150%!important;
+    height: 700px!important;
+}
+
+.page-container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  height: 100vh; /* Full height of viewport */
+}
+
+.data-container {
+  border-left: 2px solid #ccc; /* Adjust the border color and width as needed */
+  margin-left: 250px; 
+  padding-left: 10px;/* Optional: Add padding to create space between the border and content */
+}
+.offline-list {
+  columns: 1; /* Set the number of columns */
+  column-gap: 20px; /* Set the gap between columns */
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.offline-item {
+  margin-bottom: 10px; /* Add some space between items */
+}

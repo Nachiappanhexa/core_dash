@@ -1,0 +1,92 @@
+[
+    {
+        "title":  "Store Server Ping Status",
+        "overallpercentage":  "100",
+        "totalcount":  228,
+        "online":  228,
+        "offine":  0,
+        "inprogress":0,
+        "page":  "ping"
+    },
+    {
+        "title":  "Store server ILO status",
+        "overallpercentage":  "99",
+        "totalcount":  228,
+        "online":  227,
+        "offine":  1,
+        "inprogress":0,
+        "page":  "ilo"
+    },
+    {
+        "title":  "Store servers Disk utilization",
+        "overallpercentage":  "100",
+        "totalcount":  228,
+        "online":  228,
+        "offine":  0,
+        "inprogress":0,
+        "page":  "serverdisk"
+    },
+    {
+        "title":  "Store Network Switches status",
+        "overallpercentage":  "100",
+        "totalcount":  554,
+        "online":  554,
+        "offine":  0,
+        "inprogress":0,
+        "page":  "network"
+    },
+    {
+        "title":  "UPS Status",
+        "overallpercentage":  83,
+        "totalcount":  228,
+        "online":  191,
+        "offine":  37,
+        "inprogress":0,
+        "page":  "ups"
+    },
+    {
+        "title":  "Daily Backup Status",
+        "overallpercentage":  83,
+        "totalcount":  228,
+        "online":  191,
+        "offine":  1,
+        "inprogress":36,
+        "page":  "dailybackup"
+    },
+    {
+        "title":  "Memory Utilization Status",
+        "overallpercentage":  99,
+        "totalcount":  228,
+        "online":  227,
+        "offine":  0,
+        "inprogress":0,
+        "page":  "memoryutil"
+    },
+    {
+        "title":  "CPU Monitor Status",
+        "overallpercentage":  99,
+        "totalcount":  228,
+        "online":  227,
+        "offine":  0,
+        "inprogress":0,
+        "page":  "cpu"
+    },
+    {
+        "title":  "Store Servers Services Status",
+        "overallpercentage":  100,
+        "totalcount":  228,
+        "online":  1824,
+        "offine":  0,
+        "inprogress":0,
+        "page":  "serverservice"
+    },
+    {
+        "title":  "Back Office Services Status",
+        "overallpercentage":  100,
+        "totalcount":  228,
+        "online":  1824,
+        "offine":  0,
+        "inprogress":0,
+        "page":  "backoffice"
+    }
+]

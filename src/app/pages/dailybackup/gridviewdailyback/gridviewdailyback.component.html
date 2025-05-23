@@ -1,0 +1,6 @@
+<div class="grid-container flex gap-2 flex-wrap justify-between text-emerald-950 w-full pt-5">
+    <div class="content-grid border border-slate-500 shadow-xl rounded-lg p-2 mx-2 mt-3 w-3/16 {{isAvailableOrRunningSt(dat)===3? 'bg-[#808080] text-yellow-50':isAvailableOrRunningSt(dat)===1?'bg-[#FFBF00] text-green-900':dat.EncryptionStatus==='Running'? 'bg-[#90ee90]  text-blue-500':isAvailableOrRunningSt(dat)===0? 'bg-[#719461] text-yellow-50':'bg-[#EF5D5E] text-yellow-50'}}" *ngFor="let dat of data" (click)="openDialog(dat)">
+       <div class="text-left font-bold " ><i class="fal fa-location"></i> {{dat.Location|| 'N/A' }}</div>
+       <div class="text-left font-extrabold text-xs"><i class="fal fa-server"></i> {{dat.ServerName|| 'N/A' }}</div>
+    </div>
+</div>

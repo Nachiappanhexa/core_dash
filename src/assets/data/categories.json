@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Clothes",
+    "image": "https://i.imgur.com/uDpzwEk.jpeg",
+    "creationAt": "2023-10-22T04:51:26.000Z",
+    "updatedAt": "2023-10-22T04:51:26.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Electronics",
+    "image": "https://i.imgur.com/RLnJJyQ.jpeg",
+    "creationAt": "2023-10-22T04:51:26.000Z",
+    "updatedAt": "2023-10-22T04:51:26.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Furniture",
+    "image": "https://i.imgur.com/5iNAL9T.jpeg",
+    "creationAt": "2023-10-22T04:51:26.000Z",
+    "updatedAt": "2023-10-22T04:51:26.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Shoes",
+    "image": "https://i.imgur.com/nCqOV7L.jpeg",
+    "creationAt": "2023-10-22T04:51:26.000Z",
+    "updatedAt": "2023-10-22T04:51:26.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Others",
+    "image": "https://i.imgur.com/G45P8tI.jpeg",
+    "creationAt": "2023-10-22T04:51:26.000Z",
+    "updatedAt": "2023-10-22T04:51:26.000Z"
+  }
+]

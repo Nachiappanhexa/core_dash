@@ -1,0 +1,11 @@
+#chartdiv {
+    width: 100%;
+    height: 300px;
+  }
+  
+
+  app-mapview + .footer, app-mapview > .footer, app-mapview ~ .footer {
+    display: none;
+  }
+  
+  

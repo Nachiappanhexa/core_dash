@@ -1,0 +1,19 @@
+<div class="marquee1">
+    <p class="text-4xl font-extrabold uppercase inline-block px-4 py-2 text-[#0a3055]">ServerBackup Status</p>
+</div>
+
+<div>
+    <app-summaryviewserverbackup [data]="serverBackupData"></app-summaryviewserverbackup>
+</div>
+
+<div>
+    <app-toggle-button (viewChange)="onViewChange($event)"></app-toggle-button>
+</div>
+
+<div *ngIf="isGrid">
+    <app-gridviewserverbackup [data]="serverBackupData"></app-gridviewserverbackup>
+</div>
+
+<div *ngIf="!isGrid">
+    <app-tableviewserverbackup [data]="serverBackupData"></app-tableviewserverbackup>
+</div>

@@ -1,0 +1,20 @@
+<div class="marquee1">
+    <p class="text-4xl font-extrabold uppercase inline-block px-4 py-2 text-[#0a3055]">Store G5 & G6 Servers Raid Disk Status</p>
+    </div>
+    
+    <div>
+        <!-- [SummaryData]="Pingreports" -->
+    <app-summaryviewdisk [data]="raidDiskData"></app-summaryviewdisk>
+    </div>
+    
+    <div>
+    <app-toggle-button (viewChange)="onViewChange($event)"></app-toggle-button>
+    </div>
+    
+    <div *ngIf="isGrid">
+    <app-gridviewdisk [data]="raidDiskData"></app-gridviewdisk>
+    </div>
+    
+    <div *ngIf="!isGrid">
+    <app-tableviewdisk [data]="raidDiskData"></app-tableviewdisk>
+    </div>

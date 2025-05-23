@@ -1,0 +1,35 @@
+﻿[
+  {
+    "UPS_IP": "172.27.221.243",
+    "UPS_Location": "Thetford_8357",
+    "UPS_Status": "Online - Green Mode",
+    "Runtime_Remaining": "0 hr 38 min 47 sec",
+    "Battery_Percent": 100,
+    "Battery_Temperature": 25.2,
+    "Management_Uptime": "1 Day 21 Hours 54 Minutes",
+    "UPS_Error_Code": "E000: Success",
+    "UPS_Ping": 1
+  },
+  {
+    "UPS_IP": "172.27.13.230",
+    "UPS_Location": "Wimbledon_8059",
+    "UPS_Status": "Online, Smart Trim",
+    "Runtime_Remaining": "1 hr 25 min 40 sec",
+    "Battery_Percent": 100,
+    "Battery_Temperature": 26.7,
+    "Management_Uptime": "46 Days 2 Hours 10 Minutes",
+    "UPS_Error_Code": "E000: Success",
+    "UPS_Ping": 1
+  },
+  {
+    "UPS_IP": "172.27.13.230",
+    "UPS_Location": "Wimbledon_8059",
+    "UPS_Status": "Online, Smart Trim",
+    "Runtime_Remaining": "1 hr 25 min 40 sec",
+    "Battery_Percent": 100,
+    "Battery_Temperature": 26.7,
+    "Management_Uptime": "46 Days 2 Hours 10 Minutes",
+    "UPS_Error_Code": "E000: Success",
+    "UPS_Ping": 0
+  }
+]

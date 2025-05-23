@@ -1,0 +1,1598 @@
+[
+    {
+        "ID":  "",
+        "servername":  "SRV8037",
+        "ilo:":  "172.22.123.221",
+        "Location":  "BRIDGWATER",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8041",
+        "ilo:":  "172.28.33.221",
+        "Location":  "WISBECH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8044",
+        "ilo:":  "172.28.32.221",
+        "Location":  "Martlesham Heath",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8048",
+        "ilo:":  "172.26.21.221",
+        "Location":  "TAUNTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8049",
+        "ilo:":  "172.27.201.221",
+        "Location":  "FARNBOROUGH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8053",
+        "ilo:":  "172.27.11.221",
+        "Location":  "HULL",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8055",
+        "ilo:":  "172.27.12.221",
+        "Location":  "BRADFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8059",
+        "ilo:":  "172.27.13.221",
+        "Location":  "WIMBLEDON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8061",
+        "ilo:":  "172.27.14.221",
+        "Location":  "LINCOLN",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8062",
+        "ilo:":  "172.27.15.221",
+        "Location":  "DUNSTABLE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8064",
+        "ilo:":  "172.27.16.221",
+        "Location":  "SCUNTHORPE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8065",
+        "ilo:":  "172.27.17.221",
+        "Location":  "ROTHERHAM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8066",
+        "ilo:":  "172.27.18.221",
+        "Location":  "DEWSBURY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8067",
+        "ilo:":  "172.27.19.221",
+        "Location":  "SUTTON IN ASHFIELD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8071",
+        "ilo:":  "172.27.22.221",
+        "Location":  "NOTTINGHAM CENTRAL",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8072",
+        "ilo:":  "172.27.23.221",
+        "Location":  "CRICKLEWOOD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8074",
+        "ilo:":  "172.27.25.221",
+        "Location":  "CHELTENHAM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8075",
+        "ilo:":  "172.27.26.221",
+        "Location":  "COVENTRY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8077",
+        "ilo:":  "172.27.27.221",
+        "Location":  "BRISTOL",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8078",
+        "ilo:":  "172.27.28.221",
+        "Location":  "RUISLIP",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8079",
+        "ilo:":  "172.27.29.221",
+        "Location":  "DERBY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8080",
+        "ilo:":  "172.27.30.221",
+        "Location":  "WOKING",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8081",
+        "ilo:":  "172.27.31.221",
+        "Location":  "STOCKPORT",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8082",
+        "ilo:":  "172.27.32.221",
+        "Location":  "RAYLEIGH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8083",
+        "ilo:":  "172.27.33.221",
+        "Location":  "CATFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8088",
+        "ilo:":  "172.27.36.221",
+        "Location":  "PUDSEY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8090",
+        "ilo:":  "172.27.38.221",
+        "Location":  "ASHFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8091",
+        "ilo:":  "172.27.39.221",
+        "Location":  "TOTTENHAM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8093",
+        "ilo:":  "172.27.40.221",
+        "Location":  "DARTFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8096",
+        "ilo:":  "172.27.42.221",
+        "Location":  "HEMEL HEMPSTEAD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8208",
+        "ilo:":  "172.27.45.221",
+        "Location":  "CANNING TOWN",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8209",
+        "ilo:":  "172.27.46.221",
+        "Location":  "PETERBOROUGH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8214",
+        "ilo:":  "172.27.48.221",
+        "Location":  "MERTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8215",
+        "ilo:":  "172.27.49.221",
+        "Location":  "CROYDON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8216",
+        "ilo:":  "172.27.50.221",
+        "Location":  "HANDSWORTH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8220",
+        "ilo:":  "172.27.52.221",
+        "Location":  "REDDITCH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8221",
+        "ilo:":  "172.27.53.221",
+        "Location":  "WORTHING",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8222",
+        "ilo:":  "172.27.54.221",
+        "Location":  "HAYES",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8225",
+        "ilo:":  "172.27.56.221",
+        "Location":  "MINWORTH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8226",
+        "ilo:":  "172.27.57.221",
+        "Location":  "STOCKTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8227",
+        "ilo:":  "172.27.58.221",
+        "Location":  "WATERLOOVILLE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8228",
+        "ilo:":  "172.27.59.221",
+        "Location":  "FAREHAM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8229",
+        "ilo:":  "172.27.60.221",
+        "Location":  "WALLSEND",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8230",
+        "ilo:":  "172.27.61.221",
+        "Location":  "BRIGHTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8231",
+        "ilo:":  "172.27.62.221",
+        "Location":  "STOKE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8233",
+        "ilo:":  "172.27.64.221",
+        "Location":  "CHATHAM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8234",
+        "ilo:":  "",
+        "Location":  "OXFORD",
+        "ilopingstatus":  "0"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8235",
+        "ilo:":  "172.27.66.221",
+        "Location":  "HALL GREEN",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8236",
+        "ilo:":  "172.27.67.221",
+        "Location":  "CLIFTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8237",
+        "ilo:":  "172.27.68.221",
+        "Location":  "HANGER LANE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8238",
+        "ilo:":  "172.27.69.221",
+        "Location":  "ST. ALBANS",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8239",
+        "ilo:":  "172.27.70.221",
+        "Location":  "DONCASTER",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8240",
+        "ilo:":  "172.27.71.221",
+        "Location":  "DORKING",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8243",
+        "ilo:":  "172.27.74.221",
+        "Location":  "WALTHAM CROSS",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8246",
+        "ilo:":  "172.27.76.221",
+        "Location":  "BOURNEMOUTH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8247",
+        "ilo:":  "172.27.77.221",
+        "Location":  "BARNSLEY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8248",
+        "ilo:":  "172.27.78.221",
+        "Location":  "PERTH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8250",
+        "ilo:":  "172.27.80.221",
+        "Location":  "CREWE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8251",
+        "ilo:":  "172.27.81.221",
+        "Location":  "LANCASTER",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8252",
+        "ilo:":  "172.27.82.221",
+        "Location":  "DUDLEY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8253",
+        "ilo:":  "172.27.83.221",
+        "Location":  "CARLISLE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8256",
+        "ilo:":  "172.27.86.221",
+        "Location":  "BARNSTAPLE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8257",
+        "ilo:":  "172.27.87.221",
+        "Location":  "NOTTINGHAM NORTH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8258",
+        "ilo:":  "172.27.88.221",
+        "Location":  "DUNDEE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8260",
+        "ilo:":  "172.27.90.221",
+        "Location":  "HANWORTH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8261",
+        "ilo:":  "172.27.91.221",
+        "Location":  "CANNOCK",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8262",
+        "ilo:":  "172.27.92.221",
+        "Location":  "CHESTER",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8263",
+        "ilo:":  "172.27.93.221",
+        "Location":  "HUDDERSFIELD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8264",
+        "ilo:":  "172.27.94.221",
+        "Location":  "BEDFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8265",
+        "ilo:":  "172.27.95.221",
+        "Location":  "EASTBOURNE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8267",
+        "ilo:":  "172.27.97.221",
+        "Location":  "PONTEFRACT",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8268",
+        "ilo:":  "172.27.98.221",
+        "Location":  "SHREWSBURY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8270",
+        "ilo:":  "172.27.99.221",
+        "Location":  "LETCHWORTH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8271",
+        "ilo:":  "172.27.100.221",
+        "Location":  "BRIDGEND",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8273",
+        "ilo:":  "172.27.101.221",
+        "Location":  "PRESTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8274",
+        "ilo:":  "172.27.102.221",
+        "Location":  "YEOVIL",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8276",
+        "ilo:":  "172.27.104.221",
+        "Location":  "AINTREE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8277",
+        "ilo:":  "172.27.105.221",
+        "Location":  "BANBURY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8279",
+        "ilo:":  "172.27.107.221",
+        "Location":  "BLETCHLEY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8281",
+        "ilo:":  "172.27.109.221",
+        "Location":  "BLACKHEATH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8282",
+        "ilo:":  "172.27.110.221",
+        "Location":  "STIRLING",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8283",
+        "ilo:":  "172.27.111.221",
+        "Location":  "CHESTERFIELD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8284",
+        "ilo:":  "172.27.112.221",
+        "Location":  "BURY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8287",
+        "ilo:":  "172.27.114.221",
+        "Location":  "COLCHESTER",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8290",
+        "ilo:":  "172.27.116.221",
+        "Location":  "NEWPORT",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8291",
+        "ilo:":  "172.27.117.221",
+        "Location":  "BAGULEY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8292",
+        "ilo:":  "172.27.118.221",
+        "Location":  "PLYMOUTH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8293",
+        "ilo:":  "172.27.119.221",
+        "Location":  "NORTHAMPTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8296",
+        "ilo:":  "172.27.121.221",
+        "Location":  "BLACKPOOL",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8297",
+        "ilo:":  "172.27.122.221",
+        "Location":  "BARKING EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8298",
+        "ilo:":  "172.27.123.221",
+        "Location":  "BIRKENHEAD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8299",
+        "ilo:":  "172.27.124.221",
+        "Location":  "STAFFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8301",
+        "ilo:":  "172.27.125.221",
+        "Location":  "WARRINGTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8303",
+        "ilo:":  "172.27.127.221",
+        "Location":  "HALIFAX",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8308",
+        "ilo:":  "172.27.128.221",
+        "Location":  "WREXHAM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8309",
+        "ilo:":  "172.27.129.221",
+        "Location":  "EPSOM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8310",
+        "ilo:":  "172.27.130.221",
+        "Location":  "ERITH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8312",
+        "ilo:":  "172.27.132.221",
+        "Location":  "BRACKNELL",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8313",
+        "ilo:":  "172.27.133.221",
+        "Location":  "HIGH WYCOMBE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8314",
+        "ilo:":  "172.27.134.221",
+        "Location":  "MAIDSTONE EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8316",
+        "ilo:":  "172.27.136.221",
+        "Location":  "AYLESBURY EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8317",
+        "ilo:":  "172.27.137.221",
+        "Location":  "LOWESTOFT",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8318",
+        "ilo:":  "172.27.138.221",
+        "Location":  "BICESTER",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8319",
+        "ilo:":  "172.27.139.221",
+        "Location":  "BEXHILL",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8320",
+        "ilo:":  "172.27.212.221",
+        "Location":  "SITTINGBOURNE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8321",
+        "ilo:":  "172.27.140.221",
+        "Location":  "ANDOVER",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8322",
+        "ilo:":  "172.27.1.221",
+        "Location":  "EDMONTON EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8323",
+        "ilo:":  "172.27.141.221",
+        "Location":  "SWANSEA EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8326",
+        "ilo:":  "172.27.143.221",
+        "Location":  "KETTERING EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8327",
+        "ilo:":  "172.27.144.221",
+        "Location":  "WAKEFIELD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8328",
+        "ilo:":  "172.27.188.221",
+        "Location":  "SOUTHAMPTON EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8329",
+        "ilo:":  "172.27.4.221",
+        "Location":  "WESTON SUPER MARE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8331",
+        "ilo:":  "172.27.213.221",
+        "Location":  "TAMWORTH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8332",
+        "ilo:":  "172.27.202.221",
+        "Location":  "BASINGSTOKE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8334",
+        "ilo:":  "172.27.5.221",
+        "Location":  "PERRY BAR EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8336",
+        "ilo:":  "172.27.211.221",
+        "Location":  "EXETER",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8337",
+        "ilo:":  "172.27.6.221",
+        "Location":  "HARLOW EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8338",
+        "ilo:":  "172.27.9.221",
+        "Location":  "HAVANT EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8340",
+        "ilo:":  "172.27.162.221",
+        "Location":  "SLOUGH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8342",
+        "ilo:":  "172.27.3.221",
+        "Location":  "SWINDON EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8343",
+        "ilo:":  "172.27.220.221",
+        "Location":  "TELFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8344",
+        "ilo:":  "172.27.146.221",
+        "Location":  "BROADSTAIRS EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8347",
+        "ilo:":  "172.27.216.221",
+        "Location":  "CAERPHILLY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8348",
+        "ilo:":  "172.27.187.221",
+        "Location":  "NEWCASTLE EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8349",
+        "ilo:":  "172.27.200.221",
+        "Location":  "CHIPPENHAM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8350",
+        "ilo:":  "172.27.231.221",
+        "Location":  "IPSWICH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8351",
+        "ilo:":  "172.23.23.221",
+        "Location":  "Cirencester",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8352",
+        "ilo:":  "172.27.166.221",
+        "Location":  "GLASGOW",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8353",
+        "ilo:":  "172.27.210.221",
+        "Location":  "HAVERFORDWEST",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8354",
+        "ilo:":  "172.27.223.221",
+        "Location":  "EDINBURGH EXTRA",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8355",
+        "ilo:":  "172.27.189.221",
+        "Location":  "BOSTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8357",
+        "ilo:":  "172.27.221.221",
+        "Location":  "THETFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8359",
+        "ilo:":  "172.27.198.221",
+        "Location":  "LICHFIELD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8360",
+        "ilo:":  "172.27.217.221",
+        "Location":  "ASHBY DE LA ZOUCH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8361",
+        "ilo:":  "172.28.26.221",
+        "Location":  "NEW MARKET",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8364",
+        "ilo:":  "172.27.204.221",
+        "Location":  "BULWELL",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8365",
+        "ilo:":  "172.27.205.221",
+        "Location":  "DUMFRIES",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8366",
+        "ilo:":  "172.27.207.221",
+        "Location":  "GLOSSOP",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8367",
+        "ilo:":  "172.27.208.221",
+        "Location":  "HEREFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8370",
+        "ilo:":  "172.27.206.221",
+        "Location":  "PLUMSTEAD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8371",
+        "ilo:":  "172.27.73.221",
+        "Location":  "READING",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8372",
+        "ilo:":  "172.27.20.221",
+        "Location":  "CHADWELL HEATH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8374",
+        "ilo:":  "172.27.72.221",
+        "Location":  "OLDHAM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8377",
+        "ilo:":  "172.27.224.221",
+        "Location":  "GLOUCESTER",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8378",
+        "ilo:":  "172.28.16.221",
+        "Location":  "CORBY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8381",
+        "ilo:":  "172.27.199.221",
+        "Location":  "BRAINTREE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8382",
+        "ilo:":  "172.27.236.221",
+        "Location":  "EAST GRINSTEAD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8385",
+        "ilo:":  "172.27.222.221",
+        "Location":  "GUILDFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8388",
+        "ilo:":  "172.27.75.221",
+        "Location":  "CROYDON COLO",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8390",
+        "ilo:":  "172.27.232.221",
+        "Location":  "CRAWLEY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8393",
+        "ilo:":  "172.17.250.221",
+        "Location":  "WIGSTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8397",
+        "ilo:":  "172.28.25.221",
+        "Location":  "WATFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8398",
+        "ilo:":  "172.27.167.221",
+        "Location":  "LUTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8399",
+        "ilo:":  "172.28.13.221",
+        "Location":  "NORTHALLERTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8404",
+        "ilo:":  "172.27.147.221",
+        "Location":  "BURTON SOUTH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8406",
+        "ilo:":  "172.27.149.221",
+        "Location":  "WORCESTER",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8407",
+        "ilo:":  "172.27.150.221",
+        "Location":  "TRURO",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8409",
+        "ilo:":  "172.27.151.221",
+        "Location":  "BRENTWOOD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8410",
+        "ilo:":  "172.27.152.221",
+        "Location":  "GRAVESEND",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8411",
+        "ilo:":  "172.27.153.221",
+        "Location":  "SEVENOAKS",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8412",
+        "ilo:":  "172.27.154.221",
+        "Location":  "SHEFFIELD NORTH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8414",
+        "ilo:":  "172.27.156.221",
+        "Location":  "EALING",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8415",
+        "ilo:":  "",
+        "Location":  "MACCLESFIELD",
+        "ilopingstatus":  "0"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8416",
+        "ilo:":  "172.27.158.221",
+        "Location":  "STEVENAGE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8417",
+        "ilo:":  "172.27.159.221",
+        "Location":  "STIRCHLEY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8428",
+        "ilo:":  "172.27.170.221",
+        "Location":  "KINGS LYNN",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8429",
+        "ilo:":  "172.27.171.221",
+        "Location":  "MILTON KEYNES",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8430",
+        "ilo:":  "172.27.172.221",
+        "Location":  "SALISBURY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8431",
+        "ilo:":  "172.27.173.221",
+        "Location":  "CHORLEY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8434",
+        "ilo:":  "172.27.176.221",
+        "Location":  "WORKSOP",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8436",
+        "ilo:":  "172.27.178.221",
+        "Location":  "HALESOWEN",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8437",
+        "ilo:":  "172.27.179.221",
+        "Location":  "WOLVERHAMPTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8441",
+        "ilo:":  "172.27.182.221",
+        "Location":  "SOUTH SHIELDS",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8443",
+        "ilo:":  "172.27.183.221",
+        "Location":  "GRANTHAM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8444",
+        "ilo:":  "172.27.184.221",
+        "Location":  "LITTLEHAMPTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8448",
+        "ilo:":  "172.27.34.221",
+        "Location":  "BURGESS HILL",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8449",
+        "ilo:":  "172.27.37.221",
+        "Location":  "MALDON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8451",
+        "ilo:":  "172.27.55.221",
+        "Location":  "HAILSHAM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8452",
+        "ilo:":  "172.27.79.221",
+        "Location":  "NUNEATON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8453",
+        "ilo:":  "172.27.168.221",
+        "Location":  "HERTFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8454",
+        "ilo:":  "172.27.181.221",
+        "Location":  "BEVERLEY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8455",
+        "ilo:":  "172.27.225.221",
+        "Location":  "TUNSTALL",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8456",
+        "ilo:":  "172.27.226.221",
+        "Location":  "CHESHAM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8457",
+        "ilo:":  "172.27.227.221",
+        "Location":  "BISHOPS STORTFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8458",
+        "ilo:":  "172.27.228.221",
+        "Location":  "HINCKLEY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8459",
+        "ilo:":  "172.27.229.221",
+        "Location":  "WINSFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8460",
+        "ilo:":  "172.27.230.221",
+        "Location":  "RUSHDEN",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8461",
+        "ilo:":  "172.27.47.221",
+        "Location":  "WEST WICKHAM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8464",
+        "ilo:":  "172.27.186.221",
+        "Location":  "HUNTINGDON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8465",
+        "ilo:":  "172.27.234.221",
+        "Location":  "WINNERSH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8467",
+        "ilo:":  "172.27.195.221",
+        "Location":  "BOREHAMWOOD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8468",
+        "ilo:":  "172.27.237.221",
+        "Location":  "SHEFFIELD CRYSTAL PEAKS",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8469",
+        "ilo:":  "172.28.4.221",
+        "Location":  "GRIMSBY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8471",
+        "ilo:":  "172.27.126.221",
+        "Location":  "YORK",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8473",
+        "ilo:":  "172.27.177.221",
+        "Location":  "HENDON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8474",
+        "ilo:":  "172.27.242.221",
+        "Location":  "HEDGE END",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8475",
+        "ilo:":  "172.27.163.221",
+        "Location":  "ALTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8479",
+        "ilo:":  "172.27.240.221",
+        "Location":  "FOLKESTONE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8480",
+        "ilo:":  "172.23.28.221",
+        "Location":  "ANERLEY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8481",
+        "ilo:":  "172.27.169.221",
+        "Location":  "Christchurch",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8482",
+        "ilo:":  "172.27.214.221",
+        "Location":  "Sutton",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8483",
+        "ilo:":  "172.27.248.221",
+        "Location":  "Shipley",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8484",
+        "ilo:":  "172.27.155.221",
+        "Location":  "TUNBRIDGE WELLS",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8485",
+        "ilo:":  "172.28.5.221",
+        "Location":  "Winchester",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8486",
+        "ilo:":  "172.28.2.221",
+        "Location":  "MIDSOMER NORTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8488",
+        "ilo:":  "172.28.12.221",
+        "Location":  "RUGBY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8492",
+        "ilo:":  "172.28.23.221",
+        "Location":  "BOGNOR REGIS",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8493",
+        "ilo:":  "172.28.17.221",
+        "Location":  "STOWMARKET",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8494",
+        "ilo:":  "172.24.51.221",
+        "Location":  "LOUGHTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8495",
+        "ilo:":  "172.27.190.221",
+        "Location":  "NEWBURY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8497",
+        "ilo:":  "172.22.124.221",
+        "Location":  "LEEDS ROUNDHAY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8498",
+        "ilo:":  "172.28.24.221",
+        "Location":  "NORWICH",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8500",
+        "ilo:":  "172.27.131.221",
+        "Location":  "WELWYN GC",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8501",
+        "ilo:":  "172.27.161.221",
+        "Location":  "CARDIFF NEWPORT",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8510",
+        "ilo:":  "172.28.19.221",
+        "Location":  "STAINES",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8520",
+        "ilo:":  "172.27.2.221",
+        "Location":  "THURMASTON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8565",
+        "ilo:":  "172.27.8.221",
+        "Location":  "Bolton",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8566",
+        "ilo:":  "172.27.63.221",
+        "Location":  "CHELMSLFORD",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8714",
+        "ilo:":  "172.27.215.221",
+        "Location":  "Sunderland",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8719",
+        "ilo:":  "172.27.219.221",
+        "Location":  "SOUTHPORT K\u0026B",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8728",
+        "ilo:":  "172.27.113.221",
+        "Location":  "MUSWELL HILL K\u0026B",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8549",
+        "ilo:":  "172.27.24.221",
+        "Location":  "TORQUAY",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8571",
+        "ilo:":  "172.27.41.221",
+        "Location":  "WIDNES",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8585",
+        "ilo:":  "172.27.51.221",
+        "Location":  "LONG EATON",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8573",
+        "ilo:":  "172.27.44.221",
+        "Location":  "DURHAM",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8587",
+        "ilo:":  "172.27.96.221",
+        "Location":  "ABERDEEN",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8275",
+        "ilo:":  "172.27.103.221",
+        "Location":  "TROWBRIDGE",
+        "ilopingstatus":  "1"
+    },
+    {
+        "ID":  "",
+        "servername":  "SRV8586",
+        "ilo:":  "172.27.106.221",
+        "Location":  "LEAMINGTON SPA",
+        "ilopingstatus":  "1"
+    }
+]

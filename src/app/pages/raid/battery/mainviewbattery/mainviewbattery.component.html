@@ -1,0 +1,20 @@
+<div class="marquee1">
+    <p class="text-4xl font-extrabold uppercase inline-block px-4 py-2 text-[#0a3055]">Store G5 & G6 Servers Raid Battery Status</p>
+    </div>
+    
+    <div>
+        <!-- [SummaryData]="Pingreports" -->
+    <app-summaryviewbattery></app-summaryviewbattery>
+    </div>
+    
+    <div>
+    <app-toggle-button (viewChange)="onViewChange($event)"></app-toggle-button>
+    </div>
+    
+    <div *ngIf="isGrid">
+    <app-gridviewbattery></app-gridviewbattery>
+    </div>
+    
+    <div *ngIf="!isGrid">
+    <app-tableviewbattery></app-tableviewbattery>
+    </div>

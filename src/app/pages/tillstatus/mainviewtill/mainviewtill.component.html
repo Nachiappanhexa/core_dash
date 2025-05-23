@@ -1,0 +1,19 @@
+<div class="marquee1">
+    <p class="text-4xl font-extrabold uppercase inline-block px-4 py-2 text-[#0a3055]">Till Status</p>
+</div>
+
+<div>
+    <app-summaryviewtill [data]="tillData"></app-summaryviewtill>
+</div>
+
+<div>
+    <app-toggle-button (viewChange)="onViewChange($event)"></app-toggle-button>
+</div>
+
+<div *ngIf="isGrid">
+    <app-gridviewtill [data]="tillData"></app-gridviewtill>
+</div>
+
+<div *ngIf="!isGrid">
+    <app-tableviewtill [data]="tillData"></app-tableviewtill>
+</div>

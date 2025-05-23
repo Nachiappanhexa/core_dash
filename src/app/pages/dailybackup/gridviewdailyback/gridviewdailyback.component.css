@@ -1,0 +1,41 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust the minmax width as needed */
+    gap: 2rem; /* Adjust the gap between grid items */
+  }
+  mat-grid-list
+  {
+  top:60px;
+  }
+  
+  mat-grid-tile {
+    background: #DDBDF1;
+    border-radius: 8px;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  
+  .container >  grid-content {
+    display: flex;
+    justify-content: space-between;
+    order: 1;
+    flex-basis: 20%;
+  }
+  
+  
+  .content-grid {
+    transition: transform 0.2s ease; /* Add transition for smooth effect */
+  width: 100%;
+  }
+  .content-grid:hover {
+    transform: scale(1.05); /* Scale up the card on hover */
+  
+  }
+  

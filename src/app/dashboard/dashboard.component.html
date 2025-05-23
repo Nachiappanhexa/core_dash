@@ -1,0 +1,26 @@
+<div class="text-center pb-4 text-[#0a3055] text-5xl font-extrabold">{{Customername}} Real-Time Monitor Dashboard</div>
+<div class="grid-container flex gap-2 flex-wrap justify-evenly text-emerald-950">
+  <div class="map-grid-container transition-transform duration-300 hover:scale-105" *ngIf="showLastDiv">
+    <div class="border  border-slate-500 rounded-3xl pt-5 mx-3 mt-5 bg-gray-200/50 lastdiv" style="width:450px;box-shadow: 0 4px 6px rgba(34, 197, 94, 0.5);">
+    <div class="text-center font-semibold" style="font-family: Helvetica, Arial, sans-serif; opacity: 1; font-size: 20px;">Stores Online Status</div>
+    <a href="Map" target="_blank"><app-ukmapchart></app-ukmapchart></a>
+    </div>
+  </div>
+  <div
+  class="border border-slate-500 rounded-3xl p-5 mx-3 mt-5 shadow-lg bg-gray-200/50 shadow-green-500/50 transition-transform duration-300 hover:scale-105 hover:shadow-xl hover:shadow-green-500/70"
+  *ngFor="let data of dashboardData"
+>
+  <a href="{{ data.page }}" target="_blank">
+    <app-pie-chart
+      [data]="{
+        online: data.online,
+        offline: data.offine,
+        total: data.totalcount,
+        title: data.title,
+        inprogress:data.inprogress,
+        page: data.page
+      }"
+    ></app-pie-chart>
+  </a>
+</div>
+</div>

@@ -1,0 +1,55 @@
+<div class="{{isAvailableOrRunning(data)? 'success-background': data.BackupStatus==='Server Unavailable'?'gray-background':data.BackupStatus==='Backup Script Triggered' || data.BackupStatus==='Backup Running'?'amber-background':'fail-background'}} {{data.C_Utilization>95 || data.F_Utilization>95 || getTimeInMinutes(data.Runtime_Remaining) < 15 || data.UPS_Ping==0 ? 'fail-background':((data.C_Utilization>=90 && data.C_Utilization<=95) || (data.F_Utilization>=90 && data.F_Utilization<=95) || (data.Battery_Temperature>=40 && data.Battery_Percentage<=50 || !data.UPS_Error_Code.includes('Success')))?'amber-background': 'success-background'}}">
+<div class="flex justify-between">
+<h2 mat-dialog-title>Details</h2>
+<button mat-icon-button aria-label="close dialog" mat-dialog-close>
+  <mat-icon>close</mat-icon>
+</button>
+</div>
+
+<div mat-dialog-content *ngIf="bookservice">
+    <div>ServerName: {{ data.ServerName }}</div>
+    <div>Location: {{ data.Location }}</div>
+    <div>Serverstatus: {{ data.Serverstatus }}</div>
+    <div>RTIAgentsDefault: {{ data.RTIAgentDefault }}</div>
+    <div>RTIBroadcastManager: {{ data.RTIBroadcastManager }}</div>
+    <div>RTIRemoteManagement: {{ data.RTIRemoteManagement }}</div>
+    <div>CtsApplicationService: {{ data.CtsApplicationService }}</div>
+    <div>MSSQLSERVER: {{ data.MSSQLSERVER }}</div>
+    <div>ReportServer: {{ data.ReportServer }}</div>
+    <div>MSSQLFDLauncher: {{ data.MSSQLFDLauncher }}</div>
+    <div>SQLWriter: {{ data.SQLWriter }}</div>
+</div>
+<div mat-dialog-content *ngIf="upsdetails">
+    <div>IP: {{ data.UPS_IP }}</div>
+    <div>Location: {{ data.UPS_Location }}</div>
+    <div>Status: {{ data.UPS_Status }}</div>
+    <div>Remaining: {{ data.Runtime_Remaining }}</div>
+    <div>Percentage: {{ data.Battery_Percent }}</div>
+    <div>Temperature: {{ data.Battery_Temperature }}</div>
+    <div>Uptime: {{ data.Management_Uptime }}</div>
+    <div>Statuscode: {{ data.UPS_Error_Code }}</div>
+</div>
+<div mat-dialog-content *ngIf="diskutil">
+  <div>ServerName: {{ data.ServerName }}</div>
+  <div>Location: {{ data.Location }}</div>
+  <div>C Drive</div>
+  <div>Total: {{ data.C_Total }} GB</div>
+  <div>Free: {{ data.C_Free }} GB</div>
+  <div>Utilized: {{ data.C_Utilization }} %</div>
+  <div>F Drive</div>
+  <div>Total: {{ data.F_Total }} GB</div>
+  <div>Free: {{ data.F_Free }} GB</div>
+  <div>Utilized: {{ data.F_Utilization }} %</div>
+  <div>Status: {{ data.ServerStatus }}</div>
+</div>
+
+<div mat-dialog-content *ngIf="dailybackup">
+  <div>ServerName: {{ data.ServerName }}</div>
+  <div>Location: {{ data.Location }}</div>
+  <div>BackupStatus: {{ data.BackupStatus }}</div>
+  <div>AvailableBackup: {{ data.AvailableBackup }}</div>
+  <div>LastEncryptedDate: {{ data.LastEncryptedDate }}</div>
+  <div>EncryptionStatus: {{ data.EncryptionStatus }}</div>
+  <div>Message: {{ data.Message }}</div>
+  </div>
+</div>

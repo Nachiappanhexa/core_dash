@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "email": "john@mail.com",
+    "password": "changeme",
+    "name": "Jhon",
+    "role": "customer",
+    "avatar": "https://i.imgur.com/RLnJJyQ.jpeg",
+    "creationAt": "2023-10-22T04:51:26.000Z",
+    "updatedAt": "2023-10-22T04:51:26.000Z"
+  },
+  {
+    "id": 2,
+    "email": "maria@mail.com",
+    "password": "12345",
+    "name": "Maria",
+    "role": "customer",
+    "avatar": "https://i.imgur.com/M3QKiC5.jpeg",
+    "creationAt": "2023-10-22T04:51:26.000Z",
+    "updatedAt": "2023-10-22T04:51:26.000Z"
+  },
+  {
+    "id": 3,
+    "email": "admin@mail.com",
+    "password": "admin123",
+    "name": "Admin",
+    "role": "admin",
+    "avatar": "https://i.imgur.com/rUWNzYa.jpeg",
+    "creationAt": "2023-10-22T04:51:26.000Z",
+    "updatedAt": "2023-10-22T04:51:26.000Z"
+  },
+  {
+    "id": 4,
+    "email": "ttokto847@gmail.com",
+    "password": "jurnalis123",
+    "name": "totokss",
+    "role": "customer",
+    "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+    "creationAt": "2023-10-22T04:53:58.000Z",
+    "updatedAt": "2023-10-22T07:27:10.000Z"
+  },
+  {
+    "id": 5,
+    "email": "EIEI@GMAIL.COM",
+    "password": "1234",
+    "name": "Arvind",
+    "role": "admin",
+    "avatar": "https://plus.unsplash.com/premium_photo-1688429241953-1ede1e26e71f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2576&q=80",
+    "creationAt": "2023-10-22T07:36:05.000Z",
+    "updatedAt": "2023-10-22T08:25:26.000Z"
+  },
+  {
+    "id": 6,
+    "email": "EIEIG@MAIL.COM",
+    "password": "1234",
+    "name": "Sukhpreet Kaur",
+    "role": "admin",
+    "avatar": "https://plus.unsplash.com/premium_photo-1688429241953-1ede1e26e71f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2576&q=80",
+    "creationAt": "2023-10-22T07:36:10.000Z",
+    "updatedAt": "2023-10-22T08:30:16.000Z"
+  },
+  {
+    "id": 7,
+    "email": "asdfasdfasdfasdf@gmail.com",
+    "password": "sdfasdfasdfasdf",
+    "name": "dsfasdfasdf",
+    "role": "admin",
+    "avatar": "https://i.imgur.com/lVH533g.jpeg",
+    "creationAt": "2023-10-22T07:39:22.000Z",
+    "updatedAt": "2023-10-22T07:39:22.000Z"
+  },
+  {
+    "id": 8,
+    "email": "sadfasdfasdfsdf@gmail.com",
+    "password": "asdfasdfasdf",
+    "name": "sdfasdfasdf",
+    "role": "customer",
+    "avatar": "https://plus.unsplash.com/premium_photo-1688429241953-1ede1e26e71f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2576&q=80",
+    "creationAt": "2023-10-22T07:43:30.000Z",
+    "updatedAt": "2023-10-22T07:43:30.000Z"
+  },
+  {
+    "id": 9,
+    "email": "yusuf1@gmail.com",
+    "password": "123456",
+    "name": "yusuf",
+    "role": "customer",
+    "avatar": "https://api.lorem.space/image/face?w=640&h=480",
+    "creationAt": "2023-10-22T08:36:47.000Z",
+    "updatedAt": "2023-10-22T08:36:47.000Z"
+  },
+  {
+    "id": 10,
+    "email": "vladyakima@gmail.com",
+    "password": "Test1234",
+    "name": "test",
+    "role": "customer",
+    "avatar": "https://api.lorem.space/image/face?w=640&h=480&r=867",
+    "creationAt": "2023-10-22T09:37:11.000Z",
+    "updatedAt": "2023-10-22T09:37:11.000Z"
+  },
+  {
+    "id": 11,
+    "email": "qwerty@mail.com",
+    "password": "1234567",
+    "name": "qwertty",
+    "role": "customer",
+    "avatar": "https://api.lorem.space/image/face?w=640&h=480&r=867",
+    "creationAt": "2023-10-22T09:41:26.000Z",
+    "updatedAt": "2023-10-22T09:41:26.000Z"
+  },
+  {
+    "id": 12,
+    "email": "qweqryy@mail.com",
+    "password": "12345678",
+    "name": "qwett",
+    "role": "customer",
+    "avatar": "https://api.lorem.space/image/face?w=640&h=480&r=867",
+    "creationAt": "2023-10-22T09:42:16.000Z",
+    "updatedAt": "2023-10-22T09:42:16.000Z"
+  }
+]

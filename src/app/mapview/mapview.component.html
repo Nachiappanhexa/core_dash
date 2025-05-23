@@ -1,0 +1,24 @@
+<!-- <meta http-equiv="refresh" content="15"> -->
+<div class="text-center font-extrabold uppercase text-4xl mb-14 text-[#0a3055]" id="charttitle">Stores Online Status</div>
+<div class="page-container">
+    <div class="grid grid-cols-2 gap-6">
+    <div class="map-container">
+        <div class="grid-container">
+          <app-ukmapchart class="bigscreen" (locationData)="receiveLocationData($event)"></app-ukmapchart>
+        </div>
+    </div>
+    <div class="data-container w-max mx-32">
+      <ul [style]="{ 'columns': offlineCount > 20 ? '2' : '1', 'column-gap.px': 20, 'list-style-type': 'none', 'padding': '0', 'margin': '0' }" class="offline-list">
+        <div type="button" class="relative inline-flex items-center px-5 py-2.5 mb-4 text-sm font-medium text-center text-white bg-blue-300 rounded-lg">
+            Offline Stores
+            <div class="absolute inline-flex items-center justify-center w-6 h-6 text-xs font-bold text-white bg-red-500 border-2 border-white rounded-full -top-2 -end-2 dark:border-gray-900">{{this.offlineCount}}</div>
+            </div>
+            <ng-container *ngFor="let location of offlineLocationPingData">
+              <li class="offline-item">
+                <p class="text-red-500 pl-1 text-lg font-sans lowercase hover:text-red-800 hover:font-extrabold">{{location.Location}}-{{location.ServerName}}</p>
+              </li>
+            </ng-container>
+          </ul>
+    </div>
+    </div>
+    </div>
